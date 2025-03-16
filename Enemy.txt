@@ -1,0 +1,172 @@
+雌火龙	雌火龍	リオレイア	Rathian
+雌火龙（历战个体）	雌火龍（歷戰個體）	リオレイア（歴戦の個体）	Tempered Rathian
+火龙	火龍	リオレウス	Rathalos
+火龙（历战个体）	火龍（歷戰個體）	リオレウス（歴戦の個体）	Tempered Rathalos
+护火龙	護火龍	護竜リオレウス	Guardian Rathalos
+护火龙（历战个体）	護火龍（歷戰個體）	護竜リオレウス（歴戦の個体）	Tempered Guardian Rathalos
+铠龙	鎧龍	グラビモス	Gravios
+铠龙（历战个体）	鎧龍（歷戰個體）	グラビモス（歴戦の個体）	Tempered Gravios
+怪鸟	怪鳥	イャンクック	Yian Kut-Ku
+怪鸟（历战个体）	怪鳥（歷戰個體）	イャンクック（歴戦の個体）	Tempered Yian Kut-Ku
+狂龙化怪鸟	狂龍化怪鳥	狂竜化イャンクック	Frenzied Yian Kut-Ku
+毒怪鸟	毒怪鳥	ゲリョス	Gypceros
+毒怪鸟（历战个体）	毒怪鳥（歷戰個體）	ゲリョス（歴戦の個体）	Tempered Gypceros
+狂龙化毒怪鸟	狂龍化毒怪鳥	狂竜化ゲリョス	Frenzied Gypceros
+桃毛兽王	桃毛獸王	ババコンガ	Congalala
+桃毛兽王（历战个体）	桃毛獸王（歷戰個體）	ババコンガ（歴戦の個体）	Tempered Congalala
+雪狮子王	雪獅子王	ドドブランゴ	Blangonga
+雪狮子王（历战个体）	雪獅子王（歷戰個體）	ドドブランゴ（歴戦の個体）	Tempered Blangonga
+狂龙化雪狮子王	狂龍化雪獅子王	狂竜化ドドブランゴ	Frenzied Blangonga
+影蜘蛛	影蜘蛛	ネルスキュラ	Nerscylla
+影蜘蛛（历战个体）	影蜘蛛（歷戰個體）	ネルスキュラ（歴戦の個体）	Tempered Nerscylla
+狂龙化影蜘蛛	狂龍化影蜘蛛	狂竜化ネルスキュラ	Frenzied Nerscylla
+黑蚀龙	黑蝕龍	ゴア・マガラ	Gore Magala
+黑蚀龙（历战个体）	黑蝕龍（歷戰個體）	ゴア・マガラ（歴戦の個体）	Tempered Gore Magala
+护雷颚龙	護雷顎龍	護竜アンジャナフ亜種	Guardian Fulgur Anjanath
+护雷颚龙（历战个体）	護雷顎龍（歷戰個體）	護竜アンジャナフ亜種（歴戦の個体）	Tempered Guardian Fulgur Anjanath
+护凶爪龙	護兇爪龍	護竜オドガロン亜種	Guardian Ebony Odogaron
+护凶爪龙（历战个体）	護兇爪龍（歷戰個體）	護竜オドガロン亜種（歴戦の個体）	Tempered Guardian Ebony Odogaron
+辟兽（首领）	闢獸（頭領）	ドシャグマ（ボス個体）	Alpha Doshaguma
+辟兽	闢獸	ドシャグマ	Doshaguma
+辟兽（历战个体）	闢獸（歷戰個體）	ドシャグマ（歴戦の個体）	Tempered Doshaguma
+护辟兽	護闢獸	護竜ドシャグマ	Guardian Doshaguma
+护辟兽（历战个体）	護闢獸（歷戰個體）	護竜ドシャグマ（歴戦の個体）	Tempered Guardian Doshaguma
+沙海龙	沙海龍	バーラハーラ	Balahara
+沙海龙（历战个体）	沙海龍（歷戰個體）	バーラハーラ（歴戦の個体）	Tempered Balahara
+缠蛙	纏蛙	チャタカブラ	Chatacabra
+缠蛙（历战个体）	纏蛙（歷戰個體）	チャタカブラ（歴戦の個体）	Tempered Chatacabra
+炎尾龙	炎尾龍	ケマトリス	Quematrice
+炎尾龙（历战个体）	炎尾龍（歷戰個體）	ケマトリス（歴戦の個体）	Tempered Quematrice
+刺花蜘蛛	刺花蜘蛛	ラバラ・バリナ	Lala Barina
+刺花蜘蛛（历战个体）	刺花蜘蛛（歷戰個體）	ラバラ・バリナ（歴戦の個体）	Tempered Lala Barina
+沼喷龙	沼噴龍	ププロポル	Rompopolo
+沼喷龙（历战个体）	沼噴龍（歷戰個體）	ププロポル（歴戦の個体）	Tempered Rompopolo
+煌雷龙	煌雷龍	レ・ダウ	Rey Dau
+煌雷龙（历战个体）	煌雷龍（歷戰個體）	レ・ダウ（歴戦の個体）	Tempered Rey Dau
+波衣龙	波衣龍	ウズ・トゥナ	Uth Duna
+波衣龙（历战个体）	波衣龍（歷戰個體）	ウズ・トゥナ（歴戦の個体）	Tempered Uth Duna
+狱焰蛸	獄焰鱆	ヌ・エグドラ	Nu Udra
+狱焰蛸（历战个体）	獄焰鱆（歷戰個體）	ヌ・エグドラ（歴戦の個体）	Tempered Nu Udra
+赫猿兽	赫猿獸	アジャラカン	Ajarakan
+赫猿兽（历战个体）	赫猿獸（歷戰個體）	アジャラカン（歴戦の個体）	Tempered Ajarakan
+锁刃龙	鎖刃龍	アルシュベルド	Arkveld
+锁刃龙（历战个体）	鎖刃龍（歷戰個體）	アルシュベルド（歴戦の個体）	Tempered Arkveld
+护锁刃龙	護鎖刃龍	護竜アルシュベルド	Guardian Arkveld
+风铗龙	風鋏龍	ヒラバミ	Hirabami
+风铗龙（历战个体）	風鋏龍（歷戰個體）	ヒラバミ（歴戦の個体）	Tempered Hirabami
+狂龙化风铗龙	狂龍化風鋏龍	狂竜化ヒラバミ	Frenzied Hirabami
+冻峰龙	凍峰龍	ジン・ダハド	Jin Dahaad
+冻峰龙（历战个体）	凍峰龍（歷戰個體）	ジン・ダハド（歴戦の個体）	Tempered Jin Dahaad
+暗器蛸	暗器鱆	シーウー	Xu Wu
+暗器蛸（历战个体）	暗器鱆（歷戰個體）	シーウー（歴戦の個体）	Tempered Xu Wu
+白炽龙	白熾龍	ゾ・シア	Zoh Shia
+巨蜂	巨蜂	ランゴスタ	Vespoid
+桃毛兽	桃毛獸	コンガ	Conga
+雪狮子	雪獅子	ブランゴ	Blango
+雷甲龙♂	雷甲龍♂	ケラトノス♂	Ceratonoth (Male)
+雷甲龙	雷甲龍	ケラトノス	Ceratonoth
+雷甲龙♀	雷甲龍♀	ケラトノス♀	Ceratonoth (Female)
+盾突龙	盾突龍	ダルトドン	Dalthydon
+盾突龙（家畜种）	盾突龍（家畜種）	ダルトドン（家畜種）	Dalthydon (Livestock)
+血盗虫	血刺蟲	ブブラチカ	Bulaqchi
+钳速龙	銳猛龍	タリオス	Talioth
+爆翼龙	音翅龍	バオノス	Baunos
+棘吻龙	鋸吻龍	ガジオス	Gajios
+锯带龙	棘鰭龍	ピラギル	Piragill
+刺枪翼龙	銛刺龍	ハルプス	Harpios
+盔速龙	盔猛龍	クラノダス	Kranodath
+血眠虫	眠刺蟲	ネマラチカ	Comaqchi
+胶鲵	膠鯢	ゼレドロン	Gelidron
+电角兽（首领）	電角獸（頭領）	ラフマー（ボス個体）	Alpha Rafma
+电角兽	電角獸	ラフマー	Rafma
+箭羽龙	箭羽獸	ポルケピナ	Porkeplume
+稚影蜘蛛	稚影蜘蛛	ネルスキュラベビー	Nerscylla Hatchling
+护鹭鹰龙	護鷺鷹龍	護竜セクレト	Guardian Seikret
+麻痹瓦斯蛙	麻痺瓦斯蛙	シビレガスガエル	Paratoad
+爆炸瓦斯蛙	爆炸瓦斯蛙	ニトロガスガエル	Nitrotoad
+睡眠瓦斯蛙	睡眠瓦斯蛙	ネムリガスガエル	Sleeptoad
+回复蜜虫	回復蜜蟲	回復ミツムシ	Vigorwasp
+净化蜜虫	淨化蜜蟲	浄化ミツムシ	Purewasp
+大回复蜜虫	大回復蜜蟲	大回復ミツムシ	Giant Vigorwasp
+闪光翅虫	閃光翅蟲	閃光羽虫	Flashflies
+粪金龟	糞金龜	フンコロガシ	Dung Beetle
+爆弹甲虫	爆彈甲蟲	バクダンイワコロガシ	Bomb Beetle
+雪球虫	雪球蟲	ユキダマコガネ	Rime Beetle
+回复蓑衣虫	回復蓑衣蟲	カイフクコロモムシ	Vigormantle Bug
+冰冷蓑衣虫	冰冷蓑衣蟲	ヒンヤリコロモムシ	Chillmantle Bug
+温暖蓑衣虫	溫熱蓑衣蟲	ホカホカコロモムシ	Heatmantle Bug
+耐力雷虫	耐力雷蟲	スタミナライチュウ	Wiggly Litchi
+照暗蜂	照黑蜂	ヤミテラシバチ	Dark Hornet
+大雷光虫	大雷光蟲	大雷光虫	Great Thunderbugs
+楔虫	楔蟲	楔虫	Wedge Beetle
+雷光虫	雷光蟲	雷光虫	Thunderbug
+光虫	光蟲	光蟲	Flashbug
+不死虫	不死蟲	不死虫	Godbug
+苦虫	苦蟲	にが虫	Bitterbug
+搬叶蚁	森林搬運蟻	コノハコビアリ	Leaflugger Ant
+风切龙	風切龍	カザキリカケリ	Windrustler
+黑风切龙	黑風切龍	クロカゼカケリ	Black Windrustler
+沙地龙椋鸟	沙地龍椋鳥	スナチリュウツツキ	Nothpecker
+淡红萤虾	淡紅螢蝦	ウスベニホタルエビ	Pink Landlight Shrimp
+陆萤虾	陸螢蝦	オカホタルエビ	Landlight Shrimp
+美声歌鸮	美聲歌鴞	ビセイウタイズク	Hymstrigian
+泡歌鸮	泡沫歌鴞	アワウタイズク	Amstrigian
+蓄领蜥	重襟蜥蜴	ツメコミエリトカゲ	Rufflizard
+燐炎领蜥	燐炎傘蜥	リンエンエリトカゲ	Azure Rufflizard
+火焰领蜥	火焰傘蜥	ホムラエリトカゲ	Ember Rufflizard
+清腐虫	清道夫蟲	ノベムシ	Pallbug
+足迹蜥蜴	足跡蜥蜴	アシアトノコシ	Tracktail Lizard
+皇帝蚱蜢	皇帝蚱蜢	皇帝バッタ	Emperor Hopper
+暴君蚱蜢	暴君蚱蜢	暴君バッタ	Tyrant Hopper
+大独角仙	大獨角仙	ドスヘラクレス	Hercudrome
+金色独角仙	金色獨角仙	ゴールデンヘラクレス	Gold Hercudrome
+虹色大独角仙	虹色大獨角仙	虹色ドスヘラクレス	Prism Hercudrome
+瑰宝金龟子	瑰寶金龜	プレミアジュエルコガネ	Regal Jewel Scarab
+宝石金龟子	寶石金龜	ジュエルコガネ	Jewel Scarab
+霞雾蜘蛛	霞霧女郎	カスミジョロウ	Vaporonid
+预兆蜻蜓	預兆蜻蜓	キザシヤンマ	Omenfly
+凝目鼠	凝視鼠	ジロジロ	Gawkie
+花妖猩	花猩猩	ハナショウジョウ	Mimiphyta
+绯水攀鲈	緋水攀鱸	ヒミズキノボリウオ	Scarlet Joyperch
+闪灯鱼	眨眼魚	マタタキウオ	Blink Angler
+森盏蟹	森杯蟹	モリサカズキガニ	Florashell Crab
+古盏蟹	古杯蟹	コットウサカズキガニ	Curioshell Crab
+沼盏蟹	沼杯蟹	ヌマサカズキガニ	Crudeshell Crab
+隐遁壁虎	隱遁壁虎	クラマシゲッコー	Smokeshroud Gekko
+黑暗壁虎	黑暗蜥蜴	クラヤミゲッコー	Gloom Gekko
+绚烂翼鸟	絢爛翼鳥	ケンランプテルス	Dazzlewing
+沙野流星	沙之流星	スナノリュウセイ	Sandstar
+鳞片蝙蝠	鱗片蝙蝠	ウロコウモリ	Scalebat
+望花水母	煙火水母	ハナミアゲ	Sparklerjelly
+大望花水母	大輪煙火水母	タイリンハナミアゲ	Peony Sparklerjelly
+稚狱蛸	努亞亞	ヌ・ヤヤ	Nu Yaya
+虚幼	虛幼	シウシウ	Xu Yo
+空涡虫	空渦蟲	ソラナリア	Solanaria
+虚无动	虛無通	キョムトン	Pillopod
+大虚无动	虛無咚	ギョムドン	Gillopod
+花瓣虫	花開蟲	ハナヒラムシ	Petalfly
+柔毛秧鸡	柔毛秧雞	フワフワクイナ	Downy Crake
+端丽翼鸟	端麗翼鳥	オメカシプテルス	Dapperwing
+星屑鱼	星屑魚	ホシクズイクチス	Starduster
+橄榄弓鳍鱼	橄欖弓鰭魚	カンランアミア	Virid Bowfin
+四叶蜉蝣	四葉蜉蝣	ヨツバカゲロウ	Quatreflies
+千羽蝶	千羽蝶	センバチョウ	Myriads
+坚硬竹荚鱼	堅硬竹筴魚	キレアジ	Whetfish
+刺身鱼	刺身魚	サシミウオ	Sushifish
+贪吃金枪鱼	貪吃鮪魚	大食いマグロ	Gastronome Tuna
+咬鱼	咬魚	ガライーバ	Gajau
+小金鱼	小金魚	小金魚	Goldenfry
+黄金鱼	黃金魚	黄金魚	Goldenfish
+白金鱼	白金魚	白金魚	Platinumfish
+破裂龙鱼	破裂龍魚	ハレツアロワナ	Burst Arowana
+爆裂龙鱼	爆裂龍魚	バクレツアロワナ	Bomb Arowana
+火药金鱼	火藥金魚	バクヤクデメキン	Gunpowderfish
+大王旗鱼	大王旗魚	ダイオウカジキ	Speartuna
+化石腔棘鱼	化石湯釜	カセキカンス	Petricanths
+入道乌贼	入道烏賊	ニュウドウイカ	Goliath Squid
+玻璃异形鱼	玻璃異形魚	グラスパレクス	Glass Parexus
+盾章菊螺	盾牌石螺	エスカナイト	Escunite
+瑰丽盾章菊螺	瑰麗盾牌石螺	グランドエスカナイト	Grand Escunite
+大珍鲈	大鰺鱸	ドストレバリーパーチ	Great Trevally
+带卵弓鳍鱼	帶卵弓鰭魚	コモチアミア	Gravid Bowfin
+盲鲈	盲鱸	ブラインドパーチ	Blind Perch
