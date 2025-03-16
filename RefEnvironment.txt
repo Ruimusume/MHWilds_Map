@@ -1,0 +1,35 @@
+天堑沙原	天塹沙原	隔ての砂原	Windward Plains
+绯红森林	緋紅森林	緋の森	Scarlet Forest
+涌油谷	湧油山谷	油涌き谷	Basin
+冰雾断崖	冰霧斷崖	氷霧の断崖	Cliffs
+龙都遗迹	龍都遺跡	竜都の跡形	Wyveria
+风音村库纳法	風音之村庫納法	風音の村 クナファ	Kunafa, Windsong Village
+森狸人之家	莫利巴之家	モリバーのアジト	Wudwud Hideout
+火窑村阿孜兹	火窯之村阿茲茲	火窯の里 アズズ	Azuz, the Everforge
+守护者村西尔德	守護者村莊希爾德	守人の里 シルド	Sild, The Keepers' Vigil
+交汇之峰酥加	交匯之峰蘇加	交わりの峰 スージャ	Suja, Peaks of Accord
+训练场	訓練場	トレーニングエリア	Training Area
+龙谷遗址	龍谷遺址	竜谷の跡地	Wounded Hollow
+龙灯圣庙	龍燈聖廟	龍灯の社	Dragontorch Shrine
+冰锁冻峰	冰鎖凍峰	氷鎖の凍峰	Rimechain Peak
+河畔小径	河畔小徑	河畔の間道	Riverside Trail
+石窟坑道	岩窟坑道	岩窟の坑道	Cavern Tunnel
+龙都荒道	龍都廢道	竜都の廃道	Lost Path to Wyveria
+守护者参道	守護者參道	守人の参道	Keepers' Approach
+丰饶期	豐收期	豊穣期	Plenty
+荒芜期	荒廢期	荒廃期	Fallow
+极端天气	異常天氣	異常気象	Inclemency
+沙尘暴	沙塵暴	砂嵐	Sandtide
+局部暴雨	局部暴雨	集中豪雨	Downpour
+奔火	奔火	火走り	Firespring
+暴风雪	暴風雪	吹雪	Frostwinds
+龙之觉醒	龍之覺醒	竜の目覚め	Wyvern's Wakening
+龙之静寂	龍之靜寂	竜の静寂	Wyvern's Tranquility
+龙之假寐	龍之淺眠	竜のまどろみ	Wyvern's Stirring
+深夜	深夜	深夜	Late Night
+早晨	早上	朝	Morning
+白昼	午間	昼	Daytime
+黄昏	黃昏	夕	Evening
+夜晚	夜晚	夜	Nighttime
+大本营	大本營	ベースキャンプ	Base Camp
+堰堤	堰堤	堰堤	Dam
