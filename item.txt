@@ -1,0 +1,646 @@
+---	---	---	---
+回复药	回復藥	回復薬	Potion
+回复药G	回復藥・大	回復薬グレート	Mega Potion
+解毒药	解毒藥	解毒薬	Antidote
+秘药	秘藥	秘薬	Max Potion
+远古秘药	古老秘藥	いにしえの秘薬	Ancient Potion
+打消果实	打消果實	ウチケシの実	Nulberry
+携带食料	隨身食物	携帯食料	Ration
+烤熟的肉	全熟肉	こんがり肉	Well-done Steak
+半生肉	半熟肉	生焼け肉	Rare Steak
+生命粉尘	生命粉塵	生命の粉塵	Lifepowder
+烤焦的肉	烤焦肉	コゲ肉	Burnt Meat
+投射器闪光弹	投射器閃光彈	スリンガー閃光弾	Flash Pod
+投射器音爆弹	投射器音爆彈	スリンガー音爆弾	Screamer Pod
+投射器裂伤弹	投射器裂傷彈	スリンガー裂傷弾	Bleeding Pod
+投射器异臭弹	投射器異臭彈	スリンガーこやし弾	Dung Pod
+药草	藥草	薬草	Herb
+大桶爆弹	大爆彈桶	大タル爆弾	Large Barrel Bomb
+小桶爆弹	小爆彈桶	小タル爆弾	Barrel Bomb
+生肉	生肉	生肉	Raw Meat
+石块	石塊	石ころ	Stone
+投射器爆裂石	投射器爆裂石	スリンガーハジケ石	Burst Pod
+棘草果实	棘草果實	トゲ草の実	Thorngrass Pod
+砥石	砥石	砥石	Whetstone
+麻痹陷阱	麻痺陷阱	シビレ罠	Shock Trap
+回归球	回歸球	モドリ玉	Farcaster
+望远镜	望遠鏡	双眼鏡	Binoculars
+设营工具	設營工具組合	キャンプ設営キット	Camping Kit
+便携营火炉	便攜式營火爐	携帯焚き火台	Portable BBQ Grill
+解毒草	解毒草	げどく草	Antidote Herb
+常春藤叶	常春藤葉	ツタの葉	Ivy
+蜂蜜	蜂蜜	ハチミツ	Honey
+曼陀罗	風茄	マンドラゴラ	Mandragora
+蓝蘑菇	青菇	アオキノコ	Blue Mushroom
+心跳加速菇	心跳加速菇	ドキドキノコ	Exciteshroom
+烟果实	煙果實	ケムリの実	Smokenut
+苦虫汁	苦蟲汁	にが虫の苦汁	Bitterbug Broth
+光虫荧光素	光蟲發光素	光蟲の発光素	Flashbug Phosphor
+落穴陷阱	地洞	落とし穴	Pitfall Trap
+捕获用网子	捕獲用網子	捕獲用ネット	Capture Net
+不死虫精华	不死蟲萃取液	不死虫のエキス	Godbug Essence
+雷光虫蓄电素	雷光蟲蓄電素	雷光虫の蓄電素	Thunderbug Capacitor
+陷阱工具	陷阱工具	トラップツール	Trap Tool
+辟兽的皮	闢獸的皮	闢獣の皮	Doshaguma Hide
+辟兽的毛	闢獸的毛	闢獣の毛	Doshaguma Fur
+辟兽的爪	闢獸的爪	闢獣の爪	Doshaguma Claw
+辟兽的牙	闢獸的牙	闢獣の牙	Doshaguma Fang
+兽玉	獸玉	獣玉	Beast Gem
+通常弹	通常彈	通常弾	Normal Ammo
+贯穿弹	貫通彈	貫通弾	Pierce Ammo
+散弹	散彈	散弾	Spread Ammo
+穿甲榴弹	徹甲榴彈	徹甲榴弾	Sticky Ammo
+扩散弹	擴散彈	拡散弾	Cluster Bomb
+火炎弹	火炎彈	火炎弾	Flaming Ammo
+水冷弹	水冷彈	水冷弾	Water Ammo
+电击弹	電擊彈	電撃弾	Thunder Ammo
+冰结弹	冰結彈	氷結弾	Freeze Ammo
+灭龙弹	滅龍彈	滅龍弾	Dragon Ammo
+毒弹	毒彈	毒弾	Poison Ammo
+麻痹弹	麻痺彈	麻痺弾	Paralysis Ammo
+睡眠弹	睡眠彈	睡眠弾	Sleep Ammo
+斩裂弹	斬裂彈	斬裂弾	Slicing Ammo
+铁矿石	鐵礦石	鉄鉱石	Iron Ore
+燕雀石	燕雀石	マカライト鉱石	Machalite Ore
+辉龙石	輝龍石	ドラグライト鉱石	Dragonite Ore
+灵鹤石	靈鶴石	カブレライト鉱石	Carbalite Ore
+大地结晶	大地結晶	大地の結晶	Earth Crystal
+谜之骨	謎樣的骨	なぞの骨	Mystery Bone
+硬质骨头	硬質骨頭	頑丈な骨	Sturdy Bone
+兽骨	獸骨	獣骨	Brute Bone
+粗兽骨	粗獸骨	太い獣骨	Colossal Bone
+古老龙骨	古老龍骨	いにしえの龍骨	Dragonbone Relic
+沙海龙的甲壳	沙海龍的甲殼	沙海竜の甲殻	Balahara Shell
+沙海龙的鳞	沙海龍的鱗	沙海竜の鱗	Balahara Scale
+沙海龙的头壳	沙海龍的頭殼	沙海竜の頭殻	Balahara Skull
+沙海龙的尾巴	沙海龍的尾巴	沙海竜の尻尾	Balahara Tail
+沙海龙的黑珍珠	沙海龍的黑珍珠	沙海竜の黒真珠	Balahara Black Pearl
+缠蛙的颚	纏蛙的下顎	纏蛙の顎	Chatacabra Jaw
+缠蛙的皮	纏蛙的皮	纏蛙の皮	Chatacabra Hide
+缠蛙的缠甲	纏蛙的纏甲	纏蛙の纏甲	Chatacabra Shell
+缠蛙的鳞	纏蛙的鱗	纏蛙の鱗	Chatacabra Scale
+炎尾龙的鳞	炎尾龍的鱗	炎尾竜の鱗	Quematrice Scale
+炎尾龙的皮	炎尾龍的皮	炎尾竜の皮	Quematrice Hide
+炎尾龙的头冠	炎尾龍的頭冠	炎尾竜のトサカ	Quematrice Crest
+炎尾龙的尾巴	炎尾龍的尾巴	炎尾竜の尻尾	Quematrice Tail
+龙玉	龍玉	竜玉	Wyvern Gem
+护龙的毛皮	護龍的毛皮	護竜の毛皮	Guardian Pelt
+护龙的上等毛皮	護龍的上毛皮	護竜の上毛皮	Guardian Pelt+
+草食种的甲壳	草食種的甲殼	草食種の甲殻	Herbivore Shell
+血盗虫的甲壳	血刺蟲的甲殼	ブブラチカの甲殻	Bulaqchi Shell
+钳速龙的鳞	銳猛龍的鱗片	タリオスの鱗	Talioth Scale
+尖牙	尖牙	とがった牙	Sharp Fang
+翼龙的皮	翼龍的皮	翼竜の皮	Wingdrake Hide
+锐利的牙	銳利的牙	鋭利な牙	Acute Fang
+怪物的粪	魔物的糞	モンスターのフン	Dung
+近战瓶	接擊瓶	接撃ビン	Close-range Coating
+强击瓶	強擊瓶	強撃ビン	Power Coating
+贯穿瓶	貫通瓶	貫通ビン	Pierce Coating
+麻痹瓶	麻痺瓶	麻痺ビン	Paralysis Coating
+毒瓶	毒瓶	毒ビン	Poison Coating
+睡眠瓶	睡眠瓶	睡眠ビン	Sleep Coating
+爆破瓶	爆破瓶	爆破ビン	Blast Coating
+减气瓶	減氣瓶	減気ビン	Exhaust Coating
+滚成球的粪	滾動過的糞	ころがされたフン	Rolled-up Dung
+雌火龙的上等鳞	雌火龍的上鱗	雌火竜の上鱗	Rathian Scale+
+雌火龙的坚壳	雌火龍的堅殼	雌火竜の堅殻	Rathian Carapace
+雌火龙的翼膜	雌火龍的翼膜	雌火竜の翼膜	Rathian Webbing
+雌火龙的上等棘	雌火龍的上棘	雌火竜の上棘	Rathian Spike+
+雌火龙的红玉	雌火龍的紅玉	雌火竜の紅玉	Rathian Ruby
+毒菇	毒菇	毒テングダケ	Toadstool
+麻痹菇	麻痺菇	マヒダケ	Parashroom
+眠草	眠草	ネムリ草	Sleep Herb
+火药草	火藥草	火薬草	Fire Herb
+流水草	流水草	流水草	Flowfern
+霜降草	霜降草	霜ふり草	Snow Herb
+屠龙果实	屠龍果實	龍殺しの実	Dragonfell Berry
+应急药	應急藥	応急薬	First-aid Med
+补给专用携带食料	補給專用隨身食物	支給用携帯食料	EZ Ration
+补给专用闪光弹	補給專用閃光彈	支給用閃光弾	EZ Flash Bomb
+补给专用麻痹陷阱	補給專用麻痺陷阱	支給用シビレ罠	EZ Shock Trap
+补给专用落穴陷阱	補給專用地洞	支給用落とし穴	EZ Pitfall Trap
+落阳草的花	落陽草之花	落陽草の花	Gloamgrass Bud
+怪力种子	怪力種子	怪力の種	Might Seed
+忍耐种子	忍耐種子	忍耐の種	Adamant Seed
+硝化伞菇	爆炸菇	ニトロダケ	Nitroshroom
+鬼硝化伞菇	鬼爆炸菇	鬼ニトロダケ	Devil's Blight
+爆裂果实	爆裂果實	バクレツの実	Blastnut
+斩裂果实	斬裂果實	ザンレツの実	Slashberry
+煌雷龙的鳞	煌雷龍的鱗片	煌雷竜の鱗	Rey Dau Scale
+煌雷龙的甲壳	煌雷龍的甲殼	煌雷竜の甲殻	Rey Dau Shell
+煌雷龙的电角	煌雷龍的電角	煌雷竜の電角	Rey Dau Thunderhorn
+煌雷龙的雷晶爪	煌雷龍的雷晶爪	煌雷竜の雷晶爪	Rey Dau Wingtalon
+煌雷龙的尾巴	煌雷龍的尾巴	煌雷竜の尻尾	Rey Dau Tail
+煌雷龙的逆鳞	煌雷龍的逆鱗	煌雷竜の逆鱗	Rey Dau Plate
+捕获用麻醉飞刀	捕獲用麻醉飛刀	捕獲用麻酔投げナイフ	Tranq Blade
+烟雾球	煙霧球	けむり玉	Smoke Bomb
+力量之护符	力量之護符	力の護符	Powercharm
+守护之护符	守護之護符	守りの護符	Armorcharm
+龙击弹	龍擊彈	竜撃弾	Wyvern Ammo
+投射器引雷弹	投射器吸雷彈	スリンガー吸雷弾	Grounding Pod
+谜之宝珠·铠	謎樣的寶珠・鎧	なぞの珠・鎧	Mystery Orb - Armor
+发光宝珠·铠	發光寶珠・鎧	光る珠・鎧	Glowing Orb - Armor
+老旧宝珠·铠	老舊寶珠・鎧	古びた珠・鎧	Ancient Orb - Armor
+老旧武器碎片·刃	老舊武器碎片・刃	古びた武器片・刃	Old Weapon Shard - Blade
+受损的武器碎片	受損的武器碎片	傷ついた武器片	Damaged Weapon Shard
+生锈的武器碎片	生鏽的武器碎片	さびた武器片	Rusted Weapon Shard
+隐身衣装	隱身衣裝	隠れ身の装衣	Ghillie Mantle
+钓竿	釣竿	釣り竿	Fishing Rod
+通用木制鲦鱼饵	通用木製鰷擬餌	汎用ウッドミノー	Common Wood Minnow
+黄金虫头	黃金蟲頭	黄金バグヘッド	Golden Bughead
+祖母绿拟饵	綠寶石擬餌	エメラルドチャター	Emerald Jitterbait
+联装大拟饵	多節大擬餌	ジョイントドスベイト	Tuff Joint Bait
+星屑鱼拟饵	星屑魚擬餌	イクチスリグ	Duster Rig
+触手拟饵	觸手餌木	テンタクルエギ	Tentacle Jig
+元气饮料	元氣飲料	元気ドリンコ	Energy Drink
+强走药	強走藥	強走薬	Dash Juice
+活力剂	活力劑	活力剤	Immunizer
+冷饮	冷飲	クーラードリンク	Cool Drink
+热饮	熱飲	ホットドリンク	Hot Drink
+鬼人药	鬼人藥	鬼人薬	Demondrug
+怪力药丸	怪力藥丸	怪力の丸薬	Might Pill
+鬼人药G	鬼人藥・大	鬼人薬グレート	Mega Demondrug
+硬化药	硬化藥	硬化薬	Armorskin
+忍耐药丸	忍耐藥丸	忍耐の丸薬	Adamant Pill
+硬化药G	硬化藥・大	硬化薬グレート	Mega Armorskin
+汉方药	漢方藥	漢方薬	Herbal Medicine
+汉方粉尘	漢方粉塵	漢方の粉塵	Herbal Powder
+鬼人粉尘	鬼人粉塵	鬼人の粉塵	Demon Powder
+硬化粉尘	硬化粉塵	硬化の粉塵	Hardshell Powder
+生命大粉尘	生命大粉塵	生命の大粉塵	Dust of Life
+消散剂	消散劑	消散剤	Cleanser
+毒烟雾球	毒煙霧球	毒けむり玉	Poison Smoke Bomb
+捕获用麻醉球	捕獲用麻醉球	捕獲用麻酔玉	Tranq Bomb
+飞刀	飛刀	投げナイフ	Throwing Knife
+投射器毒弹	投射器毒彈	スリンガー毒弾	Poison Pod
+投射器麻痹弹	投射器麻痺彈	スリンガー麻痺弾	Para Pod
+睡眠生肉	睡眠生肉	眠り生肉	Drugged Meat
+光苔	光苔	ヒカリゴケ	Brightmoss
+投射器火炎弹	投射器火炎彈	スリンガー火炎弾	Torch Pod
+投射器水流弹	投射器水流彈	スリンガー水流弾	Puddle Pod
+投射器爆炸弹	投射器爆發彈	スリンガー爆発弾	Bomb Pod
+投射器贯穿弹	投射器貫通彈	スリンガー貫通弾	Piercing Pod
+投射器染色弹	投射器染色彈	スリンガーペイント弾	Paint Pod
+投射器诱导弹	投射器誘導彈	スリンガー誘導弾	Luring Pod
+大桶爆弹G	大爆彈桶G	大タル爆弾Ｇ	Mega Barrel Bomb
+应急药G	應急藥・大	応急薬グレート	First-aid Med+
+补给专用秘药	補給專用秘藥	支給用秘薬	EZ Max Potion
+补给专用生命粉尘	補給專用生命粉塵	支給用生命の粉塵	EZ Lifepowder
+补给专用汉方粉尘	補給專用漢方粉塵	支給用漢方の粉塵	EZ Herbal Powder
+补给专用鬼人粉尘	補給專用鬼人粉塵	支給用鬼人の粉塵	EZ Demon Powder
+补给专用硬化粉尘	補給專用硬化粉塵	支給用硬化の粉塵	EZ Hardshell Powder
+补给专用生命大粉尘	補給專用生命大粉塵	支給用生命の大粉塵	EZ Dust of Life
+补给专用麻醉球	補給專用麻醉球	支給用麻酔玉	EZ Tranq Bomb
+补给专用异臭弹	補給專用異臭彈	支給用こやし弾	EZ Dung Pod
+补给专用音爆弹	補給專用音爆彈	支給用音爆弾	EZ Sonic Bomb
+麻痹生肉	麻痺生肉	シビレ生肉	Tinged Meat
+补给专用大桶爆弹	補給專用大爆彈桶	支給用大タル爆弾	EZ Large Barrel Bomb
+补给专用回归球	補給專用回歸球	支給用モドリ玉	EZ Farcaster
+毒生肉	毒生肉	毒生肉	Poisoned Meat
+除臭球	除臭球	消臭玉	Deodorant
+库纳法奶酪	庫納法起司	クナファチーズ	Kunafa Cheese
+浓郁库纳法奶酪	濃郁庫納法起司	濃厚クナファチーズ	Sharp Kunafa Cheese
+垂涎蘑菇	垂涎蘑菇	ヨダレダケ	Droolshroom
+盛宴蘑菇	盛宴蘑菇	ゴチソウダケ	Delishroom
+泥虾	油泥蝦	マッドシュリンプ	Mud Shrimp
+大泥虾	油泥蝦王	ドスマッドシュリンプ	Turbid Shrimp
+绵绵蛋	柔柔蛋	フワフワ卵	Fluffy Egg
+柔柔绵绵蛋	綿綿蛋	フワンフワン卵	Airy Egg
+西尔德大蒜	希爾德大蒜	シルドニンニク	Sild Garlic
+特级西尔德大蒜	特級希爾德大蒜	シルドニンニク・特秀	Specialty Sild Garlic
+狂野香草	狂野香草	ワイルドハーブ	Wild Herb
+东部蜂蜜	東方蜂蜜	イーストハニー	Eastern Honey
+怪物辣椒	魔物辣椒	モンスターチリ	Monster Chili
+宝石乌鱼子	寶石烏魚子	ジュエルカラスミ	Jeweled Mullet Roe
+野生植物籽油	野生種子油	ワイルドシードオイル	Wild Seed Oil
+桃毛兽王松露	桃毛獸王松露	トリュフ・ド・コンガ	Truffle Du Conga
+不祥的布	災禍之布	禍々しい布	Sinister Cloth
+大角凤蝶	大角鳳蝶	オオツノアゲハ	Great Hornfly
+天堑芦荟	天塹蘆薈	ヘダテアロエ	Windward Aloe
+优质天堑芦荟	優質天塹蘆薈	上質なヘダテアロエ	Fine Windward Aloe
+天堑芦荟王	珍寶天塹蘆薈	ドスヘダテアロエ	Great Windward Aloe
+沙胡椒果实	沙胡椒果實	沙胡椒の実	Sandpepper
+优质沙胡椒果实	優質沙胡椒果實	上質な沙胡椒の実	Fiery Sandpepper
+苍雷晶碎片	蒼雷晶碎片	蒼雷晶のかけら	Fulgurite Shard
+优质苍雷晶	優質蒼雷晶	上質な蒼雷晶	Pure Fulgurite
+轰天苍雷晶	轟鳴蒼雷晶	轟天蒼雷晶	Thundering Fulgurite
+绯琥珀碎片	緋琥珀碎片	緋琥珀のかけら	Scarlet Amber Shard
+优质绯琥珀	優質緋琥珀	上質な緋琥珀	Fine Scarlet Amber
+悠久的大绯琥珀	悠久的大緋琥珀	悠久の大緋琥珀	Eternal Scarlet Amber
+女王花的蛊惑粉	女王花的蠱惑粉	女王華の蠱惑粉	Queensbloom Pollen
+亮亮的宝物	亮晶晶寶物	ツヤツヤのオタカラ	Shiny Treasure
+闪闪的宝物	閃亮亮寶物	キラキラのオタカラ	Sparkly Treasure
+大大的宝物	沉甸甸寶物	デカデカのオタカラ	Bulky Treasure
+黄金油	黃金油	黄金オイル	Auric Oil
+锑石	銻石	アンティマ石	Antimite
+优质锑石	優質銻石	上質なアンティマ石	Fine Antimite
+锑岩	銻岩	アンティマター	Antimite Mass
+风铗龙的旧壳	風鋏龍的褪殼	風鋏竜の抜け殻	Hirabami Molting
+龙鳞装饰壶	龍鱗裝飾壺	竜鱗の飾りツボ	Wyvernscale Vase
+逆鳞装饰壶	逆鱗裝飾壺	逆鱗の飾りツボ	Dragonscale Vase
+金色龙鳞重饰大壶	金色龍鱗重飾大壺	金色竜鱗重飾大壺	Large Goldenscale Vase
+龙都酸浆	龍都鬼燈	リュウトホオズキ	Wyveria Lantern
+成熟龙都酸浆	成熟龍都鬼燈	超熟リュウトホオズキ	Mature Wyveria Lantern
+源流隆炉球	起源龍儒球	源流のリュウヌ玉	Origin Wylk Gem
+乳白茧丝	乳白繭絲	乳白の繭糸	Milky Cocoon Web
+隆炉石子	龍儒小石	リュウヌ小石	Wylk Pebble
+隆炉球石	龍儒球石	リュウヌ玉石	Wylk Gem
+历久大隆炉球	歷久大龍儒球	暦年の大リュウヌ玉	Time-honed Wylk Gem
+古老化石骨	古老化石骨	いにしえの化石骨	Ancient Fossil
+流水壶海鞘	流水壺海鞘	ナガレツボボヤ	Drifting Sea Pot
+皇家壶海鞘	皇家壺海鞘	ロイヤルツボボヤ	Royal Sea Pot
+酒杯藻	酒杯藻	グラスウィード	Gobletweed
+大酒杯藻	觥籌藻	グラングラスウィード	Chaliceweed
+一夜花的月华粉	一夜花的月華粉	一夜花の月華粉	Nightflower Pollen
+蛋白石化石	化石蛋白石	化石のオパール	Fossilized Opal
+艳色蛋白石化石	艷色化石蛋白石	化石の美色オパール	Fossilized Fire Opal
+创世蛋白石	創世蛋白石	ジェネシスオパール	Genesis Opal
+冬龙夏草	冬龍夏草	冬竜夏草	Wyvernsprout
+坚硬竹荚鱼的鳍	堅硬竹筴魚的鰭	キレアジのヒレ	Whetfish Fin
+坚硬竹荚鱼的上等鳍	堅硬竹筴魚的上鰭	キレアジの上ヒレ	Whetfish Fin+
+刺身鱼鳞片	刺身魚鱗片	サシミウロコ	Sushifish Scale
+大刺身鱼鳞片	大刺身魚鱗片	大サシミウロコ	Great Sushifish Scale
+刺花蜘蛛的甲壳	刺花蜘蛛的甲殼	刺花蜘蛛の甲殻	Lala Barina Shell
+刺花蜘蛛的爪	刺花蜘蛛的爪	刺花蜘蛛の爪	Lala Barina Claw
+刺花蜘蛛的尾棘	刺花蜘蛛的尾棘	刺花蜘蛛の尾棘	Lala Barina Stinger
+刺花蜘蛛狩猎证	刺花蜘蛛狩獵證	刺花蜘蛛の狩猟証	Lala Barina Certificate
+刺花蜘蛛的绒毛	刺花蜘蛛的絨毛	刺花蜘蛛の綿毛	Lala Barina Floret
+投射器音爆弹	投射器音爆彈	スリンガー音爆弾	Screamer Pod
+盔速龙黄铜	盔猛龍黃銅	クラノコッパー	Krano Copper
+优质盔速龙黄铜	優質盔猛龍黃銅	クラノコパゴット	Krano Pyrite
+投射器雷光弹	投射器雷光彈	スリンガー雷光弾	Thunder Pod
+投射器冰霜弹	投射器冰霜彈	スリンガー氷霜弾	Frost Pod
+投射器灭龙弹	投射器滅龍彈	スリンガー滅龍弾	Dragon Pod
+新鲜蜂蜜	鮮採蜂蜜	採れたてのハチミツ	Fresh Honey
+投射器爆裂冰弹	投射器爆裂冰彈	スリンガーハジケ氷弾	Frostburst
+龙击果实	龍擊果實	リュウゲキの実	Dragonstrike Nut
+扩散果实	擴散果實	カクサンの実	Bomberry
+缠蛙狩猎证	纏蛙狩獵證	纏蛙の狩猟証	Chatacabra Certificate
+缠蛙的上等鳞	纏蛙的上鱗	纏蛙の上鱗	Chatacabra Scale+
+缠蛙的大颚	纏蛙的大顎	纏蛙の大顎	Chatacabra Jaw+
+缠蛙的上等皮	纏蛙的上皮	纏蛙の上皮	Chatacabra Hide+
+缠蛙的坚缠甲	纏蛙的堅纏甲	纏蛙の堅纏甲	Chatacabra Carapace
+缠蛙狩猎证 S	纏蛙狩獵證S	纏蛙の狩猟証Ｓ	Chatacabra Certificate S
+炎尾龙的引火液	炎尾龍的引火液	炎尾竜の引火液	Quematrice Igniter
+炎尾龙狩猎证	炎尾龍狩獵證	炎尾竜の狩猟証	Quematrice Certificate
+炎尾龙的上等鳞	炎尾龍的上鱗	炎尾竜の上鱗	Quematrice Scale+
+炎尾龙的上等皮	炎尾龍的上皮	炎尾竜の上皮	Quematrice Hide+
+炎尾龙的浓引火液	炎尾龍的引火濃液	炎尾竜の引火濃液	Quematrice Igniter+
+炎尾龙的大头冠	炎尾龍的大頭冠	炎尾竜の大トサカ	Quematrice Crest+
+炎尾龙狩猎证 S	炎尾龍狩獵證S	炎尾竜の狩猟証Ｓ	Quematrice Certificate S
+刺花蜘蛛的上等绒毛	刺花蜘蛛的上絨毛	刺花蜘蛛の上綿毛	Lala Barina Floret+
+刺花蜘蛛的坚壳	刺花蜘蛛的堅殼	刺花蜘蛛の堅殻	Lala Barina Carapace
+刺花蜘蛛的锐爪	刺花蜘蛛的銳爪	刺花蜘蛛の鋭爪	Lala Barina Claw+
+刺花蜘蛛的上等尾棘	刺花蜘蛛的上尾棘	刺花蜘蛛の上尾棘	Lala Barina Stinger+
+刺花蜘蛛狩猎证 S	刺花蜘蛛狩獵證S	刺花蜘蛛の狩猟証Ｓ	Lala Barina Certificate S
+沙海龙狩猎证	沙海龍狩獵證	沙海竜の狩猟証	Balahara Certificate
+沙海龙的上等鳞	沙海龍的上鱗	沙海竜の上鱗	Balahara Scale+
+沙海龙的坚壳	沙海龍的堅殼	沙海竜の堅殻	Balahara Carapace
+沙海龙的尖头壳	沙海龍的尖頭殼	沙海竜の尖頭殻	Balahara Skull+
+沙海龙狩猎证 S	沙海龍狩獵證S	沙海竜の狩猟証Ｓ	Balahara Certificate S
+辟兽狩猎证	闢獸狩獵證	闢獣の狩猟証	Doshaguma Certificate
+辟兽的刚毛	闢獸的剛毛	闢獣の剛毛	Doshaguma Fur+
+辟兽的上等皮	闢獸的上皮	闢獣の上皮	Doshaguma Hide+
+辟兽的锐爪	闢獸的銳爪	闢獣の鋭爪	Doshaguma Claw+
+辟兽的锐牙	闢獸的銳牙	闢獣の鋭牙	Doshaguma Fang+
+辟兽狩猎证 S	闢獸狩獵證S	闢獣の狩猟証Ｓ	Doshaguma Certificate S
+波衣龙的鳞	波衣龍的鱗	波衣竜の鱗	Uth Duna Scale
+波衣龙的皮	波衣龍的皮	波衣竜の皮	Uth Duna Hide
+波衣龙的纤毛	波衣龍的纖毛	波衣竜の繊毛	Uth Duna Cilia
+波衣龙的触手	波衣龍的觸手	波衣竜の触手	Uth Duna Tentacle
+波衣龙的爪	波衣龍的爪	波衣竜の爪	Uth Duna Claw
+波衣龙的逆鳞	波衣龍的逆鱗	波衣竜の逆鱗	Uth Duna Plate
+波衣龙狩猎证	波衣龍狩獵證	波衣竜の狩猟証	Uth Duna Certificate
+波衣龙的上等鳞	波衣龍的上鱗	波衣竜の上鱗	Uth Duna Scale+
+波衣龙的上等皮	波衣龍的上皮	波衣竜の上皮	Uth Duna Hide+
+波衣龙的上等纤毛	波衣龍的上纖毛	波衣竜の上繊毛	Uth Duna Cilia+
+波衣龙的艳触手	波衣龍的豔觸手	波衣竜の艶触手	Uth Duna Tentacle+
+波衣龙的锐爪	波衣龍的銳爪	波衣竜の鋭爪	Uth Duna Claw+
+波衣龙的水玉	波衣龍的水玉	波衣竜の水玉	Uth Duna Watergem
+波衣龙狩猎证 S	波衣龍狩獵證S	波衣竜の狩猟証Ｓ	Uth Duna Certificate S
+沼喷龙的皮	沼噴龍的皮	沼噴竜の皮	Rompopolo Hide
+沼喷龙的爪	沼噴龍的爪	沼噴竜の爪	Rompopolo Claw
+斑斓的毒皮	斑斕的毒皮	まだらの毒皮	Spotted Poison Hide
+沼喷龙的喙	沼噴龍的喙	沼噴竜のクチバシ	Rompopolo Beak
+沼喷龙狩猎证	沼噴龍狩獵證	沼噴竜の狩猟証	Rompopolo Certificate
+沼喷龙的上等皮	沼噴龍的上皮	沼噴竜の上皮	Rompopolo Hide+
+沼喷龙的锐爪	沼噴龍的銳爪	沼噴竜の鋭爪	Rompopolo Claw+
+斑斓的猛毒皮	斑斕的猛毒皮	まだらの猛毒皮	Spotted Poison Hide+
+沼喷龙的大喙	沼噴龍的大喙	沼噴竜の大クチバシ	Rompopolo Beak+
+沼喷龙狩猎证 S	沼噴龍狩獵證S	沼噴竜の狩猟証Ｓ	Rompopolo Certificate S
+煌雷龙狩猎证	煌雷龍狩獵證	煌雷竜の狩猟証	Rey Dau Certificate
+煌雷龙的上等鳞	煌雷龍的上鱗	煌雷竜の上鱗	Rey Dau Scale+
+煌雷龙的坚壳	煌雷龍的堅殼	煌雷竜の堅殻	Rey Dau Carapace
+煌雷龙的雷电角	煌雷龍的雷電角	煌雷竜の雷電角	Rey Dau Bolthorn
+煌雷龙的苍雷晶爪	煌雷龍的蒼雷晶爪	煌雷竜の蒼雷晶爪	Rey Dau Fulgurtalon
+煌雷龙的雷玉	煌雷龍的雷玉	煌雷竜の雷玉	Rey Dau Boltgem
+煌雷龙狩猎证 S	煌雷龍狩獵證S	煌雷竜の狩猟証Ｓ	Rey Dau Certificate S
+风铗龙的鳞	風鋏龍的鱗	風鋏竜の鱗	Hirabami Scale
+风铗龙的皮	風鋏龍的皮	風鋏竜の皮	Hirabami Hide
+风铗龙的飞膜	風鋏龍的飛膜	風鋏竜の飛膜	Hirabami Webbing
+风铗龙的尾爪	風鋏龍的尾爪	風鋏竜の尾爪	Hirabami Tail Claw
+风铗龙狩猎证	風鋏龍狩獵證	風鋏竜の狩猟証	Hirabami Certificate
+风铗龙的上等鳞	風鋏龍的上鱗	風鋏竜の上鱗	Hirabami Scale+
+风铗龙的上等皮	風鋏龍的上皮	風鋏竜の上皮	Hirabami Hide+
+风铗龙的上等飞膜	風鋏龍的上飛膜	風鋏竜の上飛膜	Hirabami Webbing+
+风铗龙的上等尾爪	風鋏龍的上尾爪	風鋏竜の上尾爪	Hirabami Tail Claw+
+风铗龙狩猎证 S	風鋏龍狩獵證S	風鋏竜の狩猟証Ｓ	Hirabami Certificate S
+赫猿兽的鳞	赫猿獸的鱗	赫猿獣の鱗	Ajarakan Scale
+赫猿兽的甲壳	赫猿獸的甲殼	赫猿獣の甲殻	Ajarakan Shell
+赫猿兽的背甲	赫猿獸的背甲	赫猿獣の背甲	Ajarakan Ridge
+赫猿兽的尾巴	赫猿獸的尾巴	赫猿獣の尻尾	Ajarakan Tail
+赫炎结晶	赫炎結晶	赫炎結晶	Ajarakan Jewel
+赫猿兽的骨髓	赫猿獸的骨髓	赫猿獣の骨髄	Ajarakan Marrow
+赫猿兽狩猎证	赫猿獸狩獵證	赫猿獣の狩猟証	Ajarakan Certificate
+赫猿兽的上等鳞	赫猿獸的上鱗	赫猿獣の上鱗	Ajarakan Scale+
+赫猿兽的坚壳	赫猿獸的堅殼	赫猿獣の堅殻	Ajarakan Carapace
+赫猿兽的坚甲	赫猿獸的堅甲	赫猿獣の堅甲	Ajarakan Ridge+
+大赫炎结晶	大赫炎結晶	大赫炎結晶	Ajarakan Jewel+
+赫猿兽的延髓	赫猿獸的延髓	赫猿獣の延髄	Ajarakan Medulla
+赫猿兽狩猎证 S	赫猿獸狩獵證S	赫猿獣の狩猟証Ｓ	Ajarakan Certificate S
+狱焰蛸的皮	獄焰鱆的皮	獄焔蛸の皮	Nu Udra Hide
+狱焰蛸的棘	獄焰鱆的棘	獄焔蛸の棘	Nu Udra Spike
+狱焰蛸的角	獄焰鱆的角	獄焔蛸の角	Nu Udra Horn
+狱焰蛸的触手	獄焰鱆的觸手	獄焔蛸の触手	Nu Udra Tentacle
+狱焰蛸的油膜	獄焰鱆的油膜	獄焔蛸の油膜	Nu Udra Oilmucus
+狱焰蛸的髓液	獄焰鱆的髓液	獄焔蛸の髄液	Nu Udra Cerebrospinal Fluid
+狱焰蛸狩猎证	獄焰鱆狩獵證	獄焔蛸の狩猟証	Nu Udra Certificate
+狱焰蛸的上等皮	獄焰鱆的上皮	獄焔蛸の上皮	Nu Udra Hide+
+狱焰蛸的上等棘	獄焰鱆的上棘	獄焔蛸の上棘	Nu Udra Spike+
+狱焰蛸的尖角	獄焰鱆的尖角	獄焔蛸の尖角	Nu Udra Horn+
+狱焰蛸的暴触手	獄焰鱆的暴觸手	獄焔蛸の暴触手	Nu Udra Tentacle+
+狱焰蛸的浓油膜	獄焰鱆的濃油膜	獄焔蛸の濃油膜	Nu Udra Oilmucus+
+狱焰蛸的炎玉	獄焰鱆的炎玉	獄焔蛸の炎玉	Nu Udra Flamegem
+狱焰蛸狩猎证 S	獄焰鱆狩獵證S	獄焔蛸の狩猟証Ｓ	Nu Udra Certificate S
+护辟兽的毛	護闢獸的毛	護闢獣の毛	Guardian Doshaguma Fur
+护辟兽的皮	護闢獸的皮	護闢獣の皮	Guardian Doshaguma Hide
+护辟兽的爪	護闢獸的爪	護闢獣の爪	Guardian Doshaguma Claw
+护辟兽的牙	護闢獸的牙	護闢獣の牙	Guardian Doshaguma Fang
+护辟兽狩猎证	護闢獸狩獵證	護闢獣の狩猟証	G. Doshaguma Certificate
+护辟兽的刚毛	護闢獸的剛毛	護闢獣の剛毛	Guardian Doshaguma Fur+
+护辟兽的上等皮	護闢獸的上皮	護闢獣の上皮	Guardian Doshaguma Hide+
+护辟兽的锐爪	護闢獸的銳爪	護闢獣の鋭爪	Guardian Doshaguma Claw+
+护辟兽的锐牙	護闢獸的銳牙	護闢獣の鋭牙	Guardian Doshaguma Fang+
+护辟兽狩猎证 S	護闢獸狩獵證S	護闢獣の狩猟証Ｓ	G. Doshaguma Certificate S
+护火龙的鳞	護火龍的鱗	護火竜の鱗	Guardian Rathalos Scale
+护火龙的甲壳	護火龍的甲殼	護火竜の甲殻	Guardian Rathalos Shell
+护火龙的翼膜	護火龍的翼膜	護火竜の翼膜	Guardian Rathalos Webbing
+护火龙的尾巴	護火龍的尾巴	護火竜の尻尾	Guardian Rathalos Tail
+护火龙的逆鳞	護火龍的逆鱗	護火竜の逆鱗	Guardian Rathalos Plate
+护火龙狩猎证	護火龍狩獵證	護火竜の狩猟証	G. Rathalos Certificate
+护火龙的上等鳞	護火龍的上鱗	護火竜の上鱗	Guardian Rathalos Scale+
+护火龙的坚壳	護火龍的堅殼	護火竜の堅殻	Guardian Rathalos Carapace
+护火龙的翼	護火龍的翼	護火竜の翼	Guardian Rathalos Wing
+护火龙的红玉	護火龍的紅玉	護火竜の紅玉	Guardian Rathalos Ruby
+护火龙狩猎证 S	護火龍狩獵證S	護火竜の狩猟証Ｓ	G. Rathalos Certificate S
+火龙的延髓	火龍的延髓	火竜の延髄	Rath Medulla
+历战狩猎之证Ⅰ	歷戰狩獵之證Ⅰ	歴戦狩猟の証Ⅰ	Hunter Symbol I
+历战狩猎之证Ⅱ	歷戰狩獵之證Ⅱ	歴戦狩猟の証Ⅱ	Hunter Symbol II
+历战狩猎之证Ⅲ	歷戰狩獵之證Ⅲ	歴戦狩猟の証Ⅲ	Hunter Symbol III
+鬼人弹	鬼人彈	鬼人弾	Demon Ammo
+硬化弹	硬化彈	硬化弾	Armor Ammo
+回复弹	回復彈	回復弾	Recover Ammo
+捕获用麻醉弹	捕獲用麻醉彈	捕獲用麻酔弾	Tranq Ammo
+减气弹	減氣彈	減気弾	Exhaust Ammo
+狂龙结晶碎片	狂龍結晶碎片	狂竜結晶の欠片	Frenzy Shard
+冻峰龙的上等鳞	凍峰龍的上鱗	凍峰竜の上鱗	Jin Dahaad Scale+
+冻峰龙的坚壳	凍峰龍的堅殼	凍峰竜の堅殻	Jin Dahaad Carapace
+冻峰龙的冻凝壳	凍峰龍的凍成殼	凍峰竜の凍成殻	Jin Dahaad Iceplate
+冻峰龙的尖爪	凍峰龍的尖爪	凍峰竜の尖爪	Jin Dahaad Claw+
+冻峰龙的层角	凍峰龍的層角	凍峰竜の層角	Jin Dahaad Horn
+冻峰龙的尾巴	凍峰龍的尾巴	凍峰竜の尻尾	Jin Dahaad Tail
+冻峰龙的冰玉	凍峰龍的冰玉	凍峰竜の氷玉	Jin Dahaad Icegem
+冻峰龙狩猎证 S	凍峰龍狩獵證S	凍峰竜の狩猟証Ｓ	Jin Dahaad Certificate S
+护凶爪龙的鳞	護兇爪龍的鱗	護兇爪竜の鱗	Guardian Ebony Scale
+护凶爪龙的硬肌	護兇爪龍的硬肌肉	護兇爪竜の硬筋	Guardian Ebony Sinew
+护凶爪龙的爪	護兇爪龍的爪	護兇爪竜の爪	Guardian Ebony Claw
+护凶爪龙的牙	護兇爪龍的牙	護兇爪竜の牙	Guardian Ebony Fang
+护凶爪龙的尾巴	護兇爪龍的尾巴	護兇爪竜の尻尾	Guardian Ebony Tail
+护凶爪龙的逆鳞	護兇爪龍的逆鱗	護兇爪竜の逆鱗	Guardian Ebony Plate
+护凶爪龙狩猎证	護兇爪龍狩獵證	護兇爪竜の狩猟証	G. Ebony Odogaron Certificate
+护凶爪龙的上等鳞	護兇爪龍的上鱗	護兇爪竜の上鱗	Guardian Ebony Scale+
+护凶爪龙的大硬肌	護兇爪龍的大硬肌肉	護兇爪竜の大硬筋	Guardian Ebony Sinew+
+护凶爪龙的尖爪	護兇爪龍的尖爪	護兇爪竜の尖爪	Guardian Ebony Claw+
+护凶爪龙的锐牙	護兇爪龍的銳牙	護兇爪竜の鋭牙	Guardian Ebony Fang+
+护凶爪龙的宝玉	護兇爪龍的寶玉	護兇爪竜の宝玉	Guardian Ebony Gem
+护凶爪龙狩猎证 S	護兇爪龍狩獵證S	護兇爪竜の狩猟証Ｓ	G. Ebony Odogaron Certificate S
+滋养精华	滋養萃取液	滋養エキス	Nourishing Extract
+暗器蛸的皮	暗器鱆的皮	暗器蛸の皮	Xu Wu Hide
+金色角质	金色的角質	金色の角質	Golden Corneum
+暗器蛸的触手	暗器鱆的觸手	暗器蛸の触手	Xu Wu Tentacle
+暗器蛸的爪	暗器鱆的爪	暗器蛸の爪	Xu Wu Claw
+暗器蛸的牙	暗器鱆的牙	暗器蛸の牙	Xu Wu Fang
+暗器蛸的髓液	暗器鱆的髓液	暗器蛸の髄液	Xu Wu Cerebrospinal Fluid
+暗器蛸狩猎证	暗器鱆狩獵證	暗器蛸の狩猟証	Xu Wu Certificate
+暗器蛸的上等皮	暗器鱆的上皮	暗器蛸の上皮	Xu Wu Hide+
+黄金硬角质	黃金硬角質	黄金の硬角質	Golden Corneum+
+暗器蛸的上等触手	暗器鱆的上觸手	暗器蛸の上触手	Xu Wu Tentacle+
+暗器蛸的尖爪	暗器鱆的尖爪	暗器蛸の尖爪	Xu Wu Claw+
+暗器蛸的锐牙	暗器鱆的銳牙	暗器蛸の鋭牙	Xu Wu Fang+
+暗器蛸的暗玉	暗器鱆的暗玉	暗器蛸の暗玉	Xu Wu Umbragem
+护龙的鳞	護龍的鱗	護竜の鱗	Guardian Scale
+护龙的上等鳞	護龍的上鱗	護竜の上鱗	Guardian Scale+
+锁刃龙的尾巴	鎖刃龍的尾巴	鎖刃竜の尻尾	Arkveld Tail
+投射器大异臭弹	投射器大異臭彈	スリンガー大こやし弾	Large Dung Pod
+补给专用大异臭弹	補給專用大異臭彈	支給用大こやし弾	EZ Large Dung Pod
+锁刃龙的上等鳞	鎖刃龍的上鱗	鎖刃竜の上鱗	Arkveld Scale+
+锁刃龙的坚铠壳	鎖刃龍的堅鎧殼	鎖刃竜の堅鎧殻	Arkveld Armorplate
+锁刃龙的白毛	鎖刃龍的白毛	鎖刃竜の白毛	White Arkveld Pelt
+无情锁刃甲	無情鎖刃甲	無慈悲な鎖刃甲	Arkveld Calloushell
+锁刃龙的尖角	鎖刃龍的尖角	鎖刃竜の尖角	Arkveld Horn+
+锁刃龙的宝玉	鎖刃龍的寶玉	鎖刃竜の宝玉	Arkveld Gem
+锁刃龙狩猎证 S	鎖刃龍狩獵證S	鎖刃竜の狩猟証Ｓ	Arkveld Certificate S
+投射器重打击弹	投射器重打擊彈	スリンガー重打撃弾	Heavy Blunt Pod
+投射器重斩裂弹	投射器重斬裂彈	スリンガー重斬裂弾	Heavy Slicing Pod
+投射器重炸裂弹	投射器重炸裂彈	スリンガー重炸裂弾	Heavy Explosion Pod
+普通素材	普通素材	普通の素材	Basic Material
+高价值素材	高價值素材	価値の高い素材	Valuable Material
+影蜘蛛的坚钳角	影蜘蛛的堅鉗角	影蜘蛛の堅鋏角	Nerscylla Shear
+护雷颚龙的上等鳞	護雷顎龍的上鱗	護雷顎竜の上鱗	Guardian Fulgur Scale+
+护雷颚龙的上等毛皮	護雷顎龍的上毛皮	護雷顎竜の上毛皮	Guardian Fulgur Pelt+
+护雷颚龙的锐牙	護雷顎龍的銳牙	護雷顎竜の鋭牙	Guardian Fulgur Fang+
+护雷颚龙的上等鼻骨	護雷顎龍的上鼻骨	護雷顎竜の上鼻骨	Guardian Fulgur Nosebone+
+护雷颚龙的尾巴	護雷顎龍的尾巴	護雷顎竜の尻尾	Guardian Fulgur Tail
+护雷颚龙的宝玉	護雷顎龍的寶玉	護雷顎竜の宝玉	Guardian Fulgur Gem
+草食种的坚壳	草食種的堅殼	草食種の堅殻	Herbivore Carapace
+血盗虫的坚壳	血刺蟲的堅殼	ブブラチカの堅殻	Bulaqchi Carapace
+怪物体液	魔物體液	モンスターの体液	Monster Fluid
+怪物浓液	魔物濃液	モンスターの濃汁	Monster Broth
+钳速龙的上等鳞	銳猛龍的上鱗	タリオスの上鱗	Talioth Scale+
+翼龙的上等皮	翼龍的上皮	翼竜の上皮	Wingdrake Hide+
+锯带龙的鳍	棘鰭龍的鰭	ピラギルのヒレ	Piragill Fin
+锯带龙的上等鳍	棘鰭龍的上鰭	ピラギルの上ヒレ	Piragill Fin+
+盔速龙的头壳	盔猛龍的頭殼	クラノダスの頭殻	Kranodath Skull
+盔速龙的坚头壳	盔猛龍的堅頭殼	クラノダスの堅頭殻	Kranodath Skull+
+血眠虫的甲壳	眠刺蟲的甲殼	ネマラチカの甲殻	Comaqchi Shell
+血眠虫的坚壳	眠刺蟲的堅殼	ネマラチカの堅殻	Comaqchi Carapace
+护鹭鹰龙的羽毛	護鷺鷹龍的羽毛	護竜セクレトの羽	Guardian Seikret Feather
+护鹭鹰龙的上等羽毛	護鷺鷹龍的上羽毛	護竜セクレトの上羽	Guardian Seikret Feather+
+桃毛兽王的毛	桃毛獸王的毛	桃毛獣の毛	Congalala Pelt
+桃毛兽王的爪	桃毛獸王的爪	桃毛獣の爪	Congalala Claw
+桃毛兽王的牙	桃毛獸王的牙	桃毛獣の牙	Congalala Fang
+极彩色的毛	極彩色的毛	極彩色の毛	Vibrant Pelt
+桃毛兽王狩猎证	桃毛獸王狩獵證	桃毛獣の狩猟証	Congalala Certificate
+桃毛兽王的刚毛	桃毛獸王的剛毛	桃毛獣の剛毛	Congalala Pelt+
+桃毛兽王的尖爪	桃毛獸王的尖爪	桃毛獣の尖爪	Congalala Claw+
+桃毛兽王的锐牙	桃毛獸王的銳牙	桃毛獣の鋭牙	Congalala Fang+
+极彩色的刚毛	極彩色的剛毛	極彩色の剛毛	Vibrant Pelt+
+影蜘蛛的甲壳	影蜘蛛的甲殼	影蜘蛛の甲殻	Nerscylla Shell
+影蜘蛛的钳角	影蜘蛛的鉗角	影蜘蛛の鋏角	Nerscylla Chelicera
+影蜘蛛的爪	影蜘蛛的爪	影蜘蛛の爪	Nerscylla Claw
+影蜘蛛的棘	影蜘蛛的棘	影蜘蛛の棘	Nerscylla Spike
+影蜘蛛狩猎证	影蜘蛛狩獵證	影蜘蛛の狩猟証	Nerscylla Certificate
+影蜘蛛的坚壳	影蜘蛛的堅殼	影蜘蛛の堅殻	Nerscylla Carapace
+影蜘蛛的锐爪	影蜘蛛的銳爪	影蜘蛛の鋭爪	Nerscylla Claw+
+影蜘蛛的上等棘	影蜘蛛的上棘	影蜘蛛の上棘	Nerscylla Spike+
+影蜘蛛狩猎证 S	影蜘蛛狩獵證S	影蜘蛛の狩猟証Ｓ	Nerscylla Certificate S
+怪鸟的上等鳞	怪鳥的上鱗	怪鳥の上鱗	Kut-Ku Scale+
+怪鸟的坚壳	怪鳥的堅殼	怪鳥の堅殻	Kut-Ku Carapace
+怪鸟的耳	怪鳥的耳	怪鳥の耳	Kut-Ku Ear
+巨大的喙	巨大的喙	巨大なクチバシ	Giant Beak
+怪鸟的翼	怪鳥的翼	怪鳥の翼	Kut-Ku Wing
+怪鸟狩猎证 S	怪鳥狩獵證S	怪鳥の狩猟証Ｓ	Yian Kut-Ku Certificate S
+橡胶质的皮	橡膠質的皮	ゴム質の皮	Rubbery Hide
+橡胶质的上等皮	橡膠質的上等皮	ゴム質の上皮	Rubbery Hide+
+毒怪鸟的翼	毒怪鳥的翼	毒怪鳥の翼	Gypceros Wing
+毒怪鸟的头	毒怪鳥的頭	毒怪鳥の頭	Gypceros Head
+毒怪鸟的尾巴	毒怪鳥的尾巴	毒怪鳥の尻尾	Gypceros Tail
+毒怪鸟狩猎证 S	毒怪鳥狩獵證S	毒怪鳥の狩猟証Ｓ	Gypceros Certificate S
+鸟龙玉	鳥龍玉	鳥竜玉	Bird Wyvern Gem
+狂奔精华	急奔萃取液	狂走エキス	Dash Extract
+雌火龙狩猎证 S	雌火龍狩獵證S	雌火竜の狩猟証Ｓ	Rathian Certificate S
+雪狮子王的刚毛	雪獅子王的剛毛	雪獅子の剛毛	Blangonga Pelt+
+雪狮子王的锐牙	雪獅子王的銳牙	雪獅子の鋭牙	Blangonga Fang+
+雪狮子王的胡须	雪獅子王的鬍鬚	雪獅子の髭	Blangonga Whisker
+雪狮子王的尾巴	雪獅子王的尾巴	雪獅子の尻尾	Blangonga Tail
+雪狮子王狩猎证 S	雪獅子王狩獵證S	雪獅子の狩猟証Ｓ	Blangonga Certificate S
+铠龙的坚壳	鎧龍的堅殼	鎧竜の堅殻	Gravios Carapace
+铠龙的头壳	鎧龍的頭殼	鎧竜の頭殻	Gravios Skull
+铠龙的坚胸壳	鎧龍的堅胸殼	鎧竜の堅胸殻	Gravios Pleura+
+铠龙的延髓	鎧龍的延髓	鎧竜の延髄	Gravios Medulla
+铠龙的翼	鎧龍的翼	鎧竜の翼	Gravios Wing
+铠龙狩猎证 S	鎧龍狩獵證S	鎧竜の狩猟証Ｓ	Gravios Certificate S
+火龙的上等鳞	火龍的上鱗	火竜の上鱗	Rathalos Scale+
+火龙的坚壳	火龍的堅殼	火竜の堅殻	Rathalos Carapace
+火龙的翼	火龍的翼	火竜の翼	Rathalos Wing
+火龙的尾巴	火龍的尾巴	火竜の尻尾	Rathalos Tail
+火龙的红玉	火龍的紅玉	火竜の紅玉	Rathalos Ruby
+火龙狩猎证 S	火龍狩獵證S	火竜の狩猟証Ｓ	Rathalos Certificate S
+黑蚀龙的上等鳞	黑蝕龍的上鱗	黒蝕竜の上鱗	Gore Magala Scale+
+黑蚀龙的坚壳	黑蝕龍的堅殼	黒蝕竜の堅殻	Gore Magala Carapace
+黑蚀龙的上等暗翼	黑蝕龍的上暗翼	黒蝕竜の上暗翼	Gore Magala Wing+
+黑蚀龙的锐惨爪	黑蝕龍的銳慘爪	黒蝕竜の鋭惨爪	Gore Magala Ripclaw+
+黑蚀龙的尾巴	黑蝕龍的尾巴	黒蝕竜の尻尾	Gore Magala Tail
+黑蚀龙的尖触角	黑蝕龍的尖觸角	黒蝕竜の尖触角	Gore Magala Feeler+
+黑蚀龙的暗玉	黑蝕龍的闇玉	黒蝕竜の闇玉	Gore Magala Nyctgem
+黑蚀龙狩猎证 S	黑蝕龍狩獵證S	黒蝕竜の狩猟証Ｓ	Gore Magala Certificate S
+狂龙结晶	狂龍結晶	狂竜結晶	Frenzy Crystal
+桃毛兽的毛	桃毛獸的毛	コンガの毛	Conga Pelt
+桃毛兽的刚毛	桃毛獸的剛毛	コンガの剛毛	Conga Pelt+
+巨蜂的甲壳	巨蜂的甲殼	ランゴスタの甲殻	Vespoid Shell
+巨蜂的坚壳	巨蜂的堅殼	ランゴスタの堅殻	Vespoid Carapace
+巨蜂的翅膀	巨蜂的翅膀	ランゴスタの羽	Vespoid Wing
+巨蜂的薄羽	巨蜂的薄羽	ランゴスタの薄羽	Vespoid Innerwing
+雪狮子的刚毛	雪獅子的剛毛	ブランゴの剛毛	Blango Pelt+
+光水晶	亮水晶	ライトクリスタル	Lightcrystal
+璀璨水晶	璀璨水晶	ノヴァクリスタル	Novacrystal
+红莲石	紅蓮石	紅蓮石	Firestone
+狱炎石	獄炎石	獄炎石	Firecell Stone
+白鸠石	白鳩石	ユニオン鉱石	Fucium Ore
+结冰金属	冰光金屬	アイシスメタル	Icium
+雪光金属	雪光金屬	グラシスメタル	Gracium
+护雷颚龙狩猎证 S	護雷顎龍狩獵證S	護雷顎竜の狩猟証Ｓ	Guardian Fulgur Certificate S
+桃毛兽王狩猎证 S	桃毛獸王狩獵證S	桃毛獣の狩猟証Ｓ	Congalala Certificate S
+漆黑的油骨	黝黑油骨	黒ずんだ油骨	Charred Oilbone
+结冻冰骨	結凍冰骨	凍てついた氷骨	Frozen Icebone
+粗壮护骨	粗狀護骨	たくましい護骨	Tough Guardian Bone
+良质硬骨	優質硬骨	上質な堅骨	Quality Bone
+破碎结晶	破碎結晶	砕けた結晶	Crushed Crystal
+白雾色结晶	霧白色結晶	白く霞んだ結晶	Cloudy Crystal
+微光结晶	微亮結晶	仄明るい結晶	Coruscating Crystal
+龙血石碎片	龍血石碎片	竜血石のかけら	Wyverian Bloodstone Shard
+小块龙血石	小塊龍血石	小さな竜血石	Wyverian Bloodstone (S)
+龙血石	龍血石	竜血石	Wyverian Bloodstone
+大块龙血石	大塊龍血石	大きな竜血石	Wyverian Bloodstone (L)
+巨大龙血石	龍血石巨塊	竜血石の塊	Wyverian Bloodstone Chunk
+火炎袋	火炎袋	火炎袋	Flame Sac
+爆炎袋	爆炎袋	爆炎袋	Inferno Sac
+水袋	水袋	水袋	Aqua Sac
+大水袋	大水袋	大水袋	Torrent Sac
+电击袋	電擊袋	電撃袋	Thunder Sac
+冰结袋	冰結袋	氷結袋	Frost Sac
+冻结袋	凍結袋	凍結袋	Freezer Sac
+毒袋	毒袋	毒袋	Poison Sac
+猛毒袋	猛毒袋	猛毒袋	Toxin Sac
+刺花蜘蛛的粘液	刺花蜘蛛的黏液	刺花蜘蛛の粘液	Lala Barina Mucus
+刺花蜘蛛的浓粘液	刺花蜘蛛的濃稠黏液	刺花蜘蛛の濃粘液	Lala Barina Mucus+
+睡眠袋	睡眠袋	睡眠袋	Sleep Sac
+昏睡袋	昏睡袋	昏睡袋	Coma Sac
+护龙的血	護龍的血	護竜の血	Guardian Blood
+护龙的净血	護龍的淨血	護竜の浄血	Guardian Blood+
+老旧武器碎片	老舊武器碎片	古びた武器片	Ancient Weapon Fragment
+辣椒	辣椒	トウガラシ	Hot Pepper
+冰冷菇	冰冷菇	ヒンヤリダケ	Chillshroom
+老旧龙雕币	老舊龍雕幣	古びた竜彫貨	Ancient Wyvern Coin
+投射器重贯穿弹	投射器重貫通彈	スリンガー重貫通弾	Heavy Piercing Pod
+装备中的衣装	裝備中的衣裝	装備中の装衣	Equipped Mantles
+黯灰金碎屑	鈍色礦碎屑	ニビイロの金屑	Drearisite Scraps
+带战伤的鳞	帶戰傷的鱗片	戦傷のある鱗	Scarred Scale
+大王扶桑花	大王扶桑花	ドスビスカス	Great Hibiscus
+盾突龙的毛织品	盾突龍的毛布	ダルトドンの毛織物	Dalthydon Wool
+阿孜兹的鞣制皮革	阿茲茲的鞣製皮革	アズズのなめし革	Azuz Tanned Leather
+酥加的布料	蘇加的布料	スージャ反物	Suja Textiles
+西尔德棉布	希爾德棉布	シルドコットン	Sild Cotton
+咬鱼的皮	咬魚的皮	咬魚の皮	Gajau Hide
+大王旗鱼的鳍	大王旗魚的鰭	ダイオウカジキのヒレ	Speartuna Fin
+调查团票	調查團票	調査団チケット	Commission Ticket
+调查队耳饰票	調查隊耳飾票	調査隊耳飾りチケット	Expedition Headgear Ticket
+花妖猩票	花猩猩票	ハナショウチケット	Mimiphyta Ticket
+谜之宝珠·剑	謎樣的寶珠・劍	なぞの珠・剣	Mystery Orb - Sword
+发光宝珠·剑	發光寶珠・劍	光る珠・剣	Glowing Orb - Sword
+老旧宝珠·剑	老舊寶珠・劍	古びた珠・剣	Ancient Orb - Sword
+老旧武器碎片·筒	老舊武器碎片・筒	古びた武器片・筒	Old Weapon Shard - Tube
+老旧武器碎片·盘	老舊武器碎片・盤	古びた武器片・盤	Old Weapon Shard - Disc
+老旧武器碎片·装置	老舊武器碎片・裝置	古びた武器片・装置	Old Weapon Shard - Device
+铠玉	鎧玉	鎧玉	Armor Sphere
+上铠玉	上鎧玉	上鎧玉	Armor Sphere+
+尖铠玉	尖鎧玉	尖鎧玉	Advanced Armor Sphere
+坚铠玉	堅鎧玉	堅鎧玉	Hard Armor Sphere
+不动衣装	不動衣裝	不動の装衣	Rocksteady Mantle
+再生衣装	再生衣裝	再生の装衣	Mending Mantle
+回避衣装	迴避衣裝	回避の装衣	Evasion Mantle
+蚀攻衣装	蝕攻衣裝	蝕攻の装衣	Corrupted Mantle
+飞龙的蛋	飛龍的蛋	飛竜の卵	Wyvern Egg
+狂野肉干	狂野肉乾	ワイルドジャーキー	Wild Jerky
+增强剂	增強劑	増強剤	Catalyst
+炸药	爆藥	爆薬	Gunpowder
+小木桶	小木桶	小タル	Small Barrel
+大木桶	大木桶	大タル	Large Barrel
+蜘蛛网	蜘蛛網	クモの巣	Spider Web
+网子	網子	ネット	Net
+火药金鱼鳞片	火藥金魚鱗片	バクヤクウロコ	Gunpowderfish Scale
+破裂龙鱼鳞片	破裂鱗片	ハレツウロコ	Burst Arowana Scale
+爆裂龙鱼鳞片	爆裂鱗片	バクレツウロコ	Bomb Arowana Scale
+金色鳞片	金色鱗片	金色のウロコ	Gilded Scale
+黄金鳞片	黃金鱗片	黄金のウロコ	Golden Scale
+白金鳞片	白金鱗片	白金のウロコ	Platinum Scale
+钢之炼金票	鋼之鍊金票	鋼の錬金チケット	Steel Melding Ticket
+银之炼金票	銀之鍊金票	銀の錬金チケット	Silver Melding Ticket
+金之炼金票	金之鍊金票	金の錬金チケット	Gold Melding Ticket
+钢之遗物票	鋼之遺物票	鋼の遺物チケット	Steel Relic Ticket
+银之遗物票	銀之遺物票	銀の遺物チケット	Silver Relic Ticket
+金之遗物票	金之遺物票	金の遺物チケット	Gold Relic Ticket
+黯灰金石	鈍色礦	ニビイロカネ	Drearisite
+斑驳金石	斑色礦	マダライロカネ	Specklite
+银色金石	銀色礦	ギンイロカネ	Argecite
+七色金石	七彩礦	ナナイロカネ	Oricalcite
+钢蛋	鋼蛋	鋼のたまご	Steel Egg
+银蛋	銀蛋	銀のたまご	Silver Egg
+金蛋	金蛋	金のたまご	Golden Egg
+重铠玉	重鎧玉	重鎧玉	Heavy Armor Sphere
+尖龙骨	尖龍骨	尖竜骨	Monster Keenbone
+坚龙骨	堅龍骨	堅竜骨	Monster Hardbone
+坚固的骨	堅固的骨	堅牢な骨	Stoutbone
+坚固的巨骨	堅固的巨骨	堅牢な巨骨	Great Stoutbone
+暗器蛸狩猎证 S	暗器鱆狩獵證S	暗器蛸の狩猟証Ｓ	Xu Wu Certificate S
+烤焦的壁虎	烤焦的壁虎	ヤモリの黒焼き	Charred Lizard
