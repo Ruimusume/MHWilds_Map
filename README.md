@@ -1,4 +1,4 @@
-# MHWilds Interactive Ma
+# MHWilds Interactive Map
 Language Comparison Table, including Simplified, Traditional, Japanese, and English
 
 https://ruisan.blog.jp/archives/27120953.html
