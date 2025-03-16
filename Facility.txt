@@ -1,0 +1,22 @@
+任务柜台	任務櫃台	クエストカウンター	Quest Counter
+物资补给所	物資補給所	物資補給所	Provisions Stockpile
+加工商	工匠	加工屋	Smithy
+食物配给处	食物補給所	食料配給所	Ingredient Center
+支援船	支援船	支援船	Support Ship
+支援柜台	支援櫃台	サポート窓口	Support Desk
+小队信息柜台	小隊資訊櫃台	サークル情報窓口	Squad Information Counter
+聚落的传话人	和村民交易	集落の取次	Village Intermediary
+以物易物	以物易物	もちもの交換	Item Trade
+素材采集委托	素材採集委託	素材採集依頼	Material Retrieval
+用餐邀请	用餐邀請	食事のお誘い	Meal Invitation
+鹭鹰龙自定义设置	自訂鷺鷹龍設計	セクレトカスタマイズ	Seikret Customization
+营火烧烤	營火燒烤	焚き火焼き	Bonfire Cooking
+高兴的森狸人	心情不錯的莫利巴	ご機嫌なモリバー	Happy Wudwud
+训练管理柜台	訓練管理櫃台	トレーニング管理窓口	Training Area Meownager
+简易营地工头	簡易營地工頭	簡易キャンプの親方	Pop-up Camp Meowster
+简易营地工匠	簡易營地工匠	簡易キャンプの職人	Pop-up Camp Purrofessional
+精炼火窑	精煉火窯	精錬の火窯	Smelting Foundry
+神秘炼金	神秘鍊金	マカ錬金	Melding Pot
+逗噗吱猪	逗噗吱豬	かまう	Pet
+公会狩猎辅助员（沃纳）	公會狩獵輔助人員（維爾納）	ギルドの狩猟補助（ヴェルナー）	Hunting Assistant (Werner)
+公会狩猎辅助员（杰玛）	公會狩獵輔助人員（潔瑪）	ギルドの狩猟補助（ジェマ）	Hunting Assistant (Gemma)
