@@ -1,0 +1,230 @@
+古坑升降机	古坑升降機	古坑の昇降機	Pit Elevator
+被束缚的兽人族	被綁住的獸人族	がんじがらめの獣人族	Bound Lynian
+兽人族留下的礼物	獸人族留下的禮物	獣人族の置き土産	Lynian's Parting Gift
+启动杆	控制桿	起動レバー	Activation Lever
+快崩塌的柱子	快崩塌的柱子	壊れそうな柱	Crumbling Pillar
+棘草果实	棘草果實	トゲ草の実	Thorngrass Pod
+爆裂石	爆裂石	ハジケ石	Rockburst
+引雷石	引雷石	吸雷石	Grounding Stone
+种火石	種火石	種火石	Sparkflint
+水球苔	水球苔	ミズタマリゴケ	Watermoss
+冻结酸浆	凍結鬼燈	イテツキホオズキ	Frostlantern
+雷鸣石	雷鳴石	雷鳴石	Thundercryst
+破龙石	破龍石	破龍石	Wyrmsbane
+毒液结晶	毒液結晶	毒液の結晶	Crystalized Venom
+沙胡椒果实	沙胡椒果實	沙胡椒の実	Sandpepper
+矿脉	礦脈	鉱脈	Mining Outcrop
+骨冢	骨塚	骨塚	Bonepile
+天堑芦荟	天塹蘆薈	ヘダテアロエ	Windward Succulent
+巨大天堑芦荟	巨大天塹蘆薈	巨大なヘダテアロエ	Giant Windward Succulent
+苍雷晶结晶	蒼雷晶結晶	蒼雷晶の結晶	Fulgurite Crystal
+巨大苍雷晶	巨大蒼雷晶	巨大な蒼雷晶	Fulgurite Vein
+美丽化石	美麗化石	きれいな化石	Exquisite Fossil
+壮丽化石	壯觀化石	壮麗な化石	Magnificent Fossil
+虫珀	蟲珀	虫入りの琥珀	Amber Deposit
+巨大琥珀	巨大琥珀	巨大な琥珀	Colossal Amber
+老旧宝物	古老寶物	古びたオタカラ	Weathered Treasure
+大型宝物	巨大寶物	大きなオタカラ	Bountiful Treasure
+古代遗物	古代遺物	古代の遺物	Ancient Relic
+壮丽的古代遗物	壯觀古代遺物	壮麗な古代の遺物	Remarkable Relic
+美丽的水栖生物	美麗水棲生物	きれいな水棲生物	Beautiful Aquatica
+酒杯状藻类	酒杯狀藻類	グラス状の藻類	Glass Algae
+风铗龙的旧壳	風鋏龍的褪殼	風鋏竜の抜け殻	Hirabami Molting
+神秘水果	神秘水果	不思議な果物	Mysterious Fruit
+莹白色玉石	輝白色玉石	輝白色の玉石	Whitegleam Gemstone
+黄金油	黃金油	黄金オイル	Auric Oil
+乳白色玉石	乳白色玉石	乳白色の玉石	Wylky Gemstone
+乳白色结晶块	乳白色結晶塊	乳白色の晶出塊	Wylky Crystal Outcrop
+茧丝	繭纖維	繭の繊維	Cocoon Fiber
+女王大花草	女皇大花	クイーンラフレシア	Queen Rafflesia
+一夜花	月下美人	儚げな花	Ephemeral Blossom
+焦黑的骨化石	黝黑骨化石	黒ずんだ骨の化石	Blackened Fossil
+骸晶化矿物	骸晶化礦物	骸晶化した鉱物	Hopper Crystal Ore
+巨大骸晶化矿物	骸晶化巨大礦物	骸晶化した巨大な鉱物	Giant Hopper Crystal
+落石	落石	落石	Falling Boulders
+巨大落石	巨大落石	巨大な落石	Giant Falling Boulder
+家畜栅栏	家畜柵欄	家畜の柵	Livestock Fence
+苍雷晶柱	蒼雷晶柱	蒼雷晶の柱	Fulgurite Pillar
+引雷岩	引雷岩	吸雷岩	Grounding Pillar
+草丛	草叢	茂み	Brush
+回复露草	回復露草	回復ツユクサ	Vitalily
+毒蔓草	毒蔓草	ドクカズラ	Poisoncup
+大型流沙	大型流沙	大流砂	Giant Sand Pit
+流沙	流沙	流砂	Quicksand
+落雷多发地点	落雷頻發地點	落雷多発地点	Lightning Prone Area
+老旧龙雕币	老舊龍雕幣	古びた竜彫貨	Ancient Wyvern Coin
+尖锐结晶柱	尖銳結晶柱	尖った結晶の柱	Sharp Crystal Pillar
+引雷岩落石	引雷岩落石	吸雷岩の落石	Falling Grounding Pillar
+不稳定的苍雷晶高台	蒼雷晶崩塌高台	蒼雷晶の崩れ高台	Unstable Fulgurite Outcrop
+不稳定的苍雷晶底座	蒼雷晶崩塌地面	蒼雷晶の崩れ床	Unstable Fulgurite Ground
+藤蔓陷阱	藤蔓陷阱	ツタの罠	Vine Trap
+脱落的体毛	脫落的體毛	抜け落ちた体毛	Shed Fur
+粗暴的捕食痕迹	粗暴捕食痕跡	食い荒らされた跡	Chewed Up Remains
+口水痕迹	口水痕跡	涎の跡	Saliva Traces
+剥落的覆盖物碎片	剝落的附著物碎片	剥がれ落ちた纏い片	Scraps of Cloth
+喷射状的油痕	噴射狀的油痕	噴射されたオイル跡	Splattered Oil
+剥落的鳞	剝落的鱗片	剥がれ落ちた鱗	Shed Scales
+吐出的粘液	吐出的黏液	吐き出された粘液	Spewed Mucus
+潜行痕迹	潛行痕跡	潜行痕	Burrowing Traces
+抓痕	抓痕	ひっかき痕	Scratch Marks
+苍雷晶碎片	蒼雷晶碎片	蒼雷晶の欠片	Fulgurite Shard
+刺花绒毛	刺花絨毛	刺花の綿毛	Lala Floret
+白色体毛	白色體毛	白色の体毛	White Hairs
+粉色毛发	桃色的毛	桃色の毛	Pink Hairs
+挖开的地面	挖開的地面	掘り起こされた地面	Dug-Up Earth
+吃剩的蘑菇残渣	吃剩的蘑菇殘渣	食い散らかされたキノコ	Chewed Mushroom Crumbs
+怪鸟的鳞片	怪鳥的鱗片	怪鳥の鱗片	Kut-Ku Scale Fragment
+吃剩的昆虫残渣	吃剩的昆蟲殘渣	食い散らかされた蟲片	Chewed Insect Remains
+透明羽衣	透明羽衣	透明な羽衣	Transparent Raiment
+带水汽的鳞片	帶水氣的鱗片	水気を帯びた鱗片	Damp Scale Fragments
+金属摩擦痕迹	金屬摩擦痕跡	擦り付けられた金属痕	Scuffed Metal
+爆炸后掀起的地面	爆炸炸開的地面	爆発でえぐられた地面	Incinerated Ground
+粘液	黏液	粘液	Mucus
+矿物碎片	礦物碎片	鉱物の欠片	Mineral Shards
+鳞片	鱗片	鱗片	Scale Fragments
+爪痕	爪痕	爪痕	Scratch Marks
+含焦油的体液	帶焦油的體液	タール分を含んだ体液	Tar Excretions
+吐出的消化物	被吐出的消化物	吐き出された消化物	Half-Digested Food
+钳角碎片	鉗角碎片	鋏角の欠片	Chelicera Shards
+结晶化毒碎片	結晶化的毒碎片	結晶化した毒の欠片	Crystalized Poison Shard
+亮晶晶的收集品	閃亮亮的收集物	キラキラの収集物	Glittering Object
+捕食痕迹	捕食痕跡	捕食痕	Half-Eaten Carcass
+灼热余烬	灼熱餘燼	赤熱の燃え残り	Red Hot Embers
+冰霜爪痕	嚴霜的爪痕	霜烈な爪痕	Frosty Scratch Marks
+重新掩埋的痕迹	被埋回的痕跡	埋め戻された跡	Refilled Hole
+黑色爪痕	黑色爪痕	黒い爪痕	Black Scratch Marks
+黑色鳞粉	黑色鱗粉	黒い鱗粉	Dark Scales
+混有隆炉的胃液	混有龍儒的胃液	リュウヌ混じりの胃液	Gastric Fluid Mixed With Wylk
+挖掘痕迹	挖掘痕跡	掘削跡	Excavation Traces
+锐利羽毛	銳利羽毛	鋭利な羽毛	Sharp Feathers
+锁翼刃碎片	鎖翼刃碎片	鎖翼刃の欠片	Chainblade Shard
+烧焦的地面	燒焦地面	焦げた地面	Scorched Ground
+甲壳碎片	甲殼碎片	甲殻の欠片	Carapace Shard
+旧壳碎片	褪殼碎片	抜け殻の欠片	Molt Shards
+特征明显的爪痕	特徵明顯的爪痕	特徴的な爪痕	Distinctive Scratch Marks
+金色碎屑	金色碎屑	金色の屑片	Golden Scraps
+喙形的洞	喙狀的洞	くちばし状の穴	Beak-Shaped Hole
+沾满油泥的捕食痕迹	布滿油泥的捕食痕跡	油泥まみれの捕食痕	Oilsilt-drenched Remains
+粪便	糞便	フン	Dung
+锐爪碎片	銳爪碎片	引き裂く爪の欠片	Razor-Sharp Claw Shard
+带粘性的缠石片	帶黏性的纏石片	粘着質な纏石片	Sticky Rock
+残缺的麻痹针	缺角的麻痺針	欠けた麻痺針	Broken Stinger
+剥落的苍雷晶碎片	剝落的蒼雷晶片	剥がれ落ちた蒼雷晶片	Blue Thunder Crystal Fragment
+坚硬的头部石片	堅硬的頭部石片	硬い頭石片	Chunk of Hard Rock
+炽热的矿物碎片	熾熱的礦物碎片	赤熱帯びた鉱片	Red Hot Ore Fragment
+剥落的油块	剝落的油塊	剥がれ落ちた油塊	Oil Glob
+带白光的爪子碎片	帶白光的爪子碎片	白光帯びた爪の欠片	Glowing White Claw Shard
+带白光的锁刃碎片	帶白光的鎖刃碎片	白光帯びた鎖刃の欠片	Glowing Chainblade Shard
+挖出的松露碎片	被挖出的松露片	掘り出されたトリュフ片	Unearthed Truffe Fragment
+毒结晶碎片	毒結晶碎片	毒結晶の欠片	Poison Crystal Shard
+钳尾爪碎片	鉗尾爪碎片	鋏尾爪の欠片	Tail Claw Shard
+黄矿石碎片	黃礦石碎片	黄鉱石の欠片	Yellow Ore Shard
+大冻凝壳碎片	大凍成殼碎片	大凍成殻の欠片	Large Iceplate Shard
+带白光的凶爪碎片	帶白光的兇爪碎片	白光帯びた兇爪の欠片	Glowing Ebony Claw Shard
+带白光的獠牙碎片	帶白光的獠牙碎片	白光帯びた牙の欠片	Glowing Fang Shard
+带白光的翼爪碎片	帶白光的翼爪碎片	白光帯びた翼爪の欠片	Glowing Wingtalon Shard
+锐利的暗器碎片	銳利的暗器片	鋭利な暗器片	Sharp Xu Wu Fragment
+剥落的白缠晶	剝落的白纏晶	剥がれ落ちた白纏晶	Crystal Fragments
+锐利的翼爪碎片	銳利的翼爪碎片	鋭い翼爪の欠片	Sharp Wing Claw Shard
+坚固的甲壳碎片	堅固的甲殼碎片	堅牢な甲殻片	Tough Carapace Fragment
+不祥犄角碎片	不祥犄角碎片	禍々しい角の欠片	Ominous Horn Shard
+破碎的锁刃碎片	碎裂的鎖刃碎片	断ち砕く鎖刃の欠片	Crushing Chainblade Shard
+历战的伤痕碎片	歷戰的傷痕碎片	歴戦の創痕片	Battle Remains
+黄矿石块	黃礦石塊	黄鉱石の塊	Yellow Ore Chunk
+腐尸蘑菇	腐屍蘑菇	ムクロに生えたキノコ	Carrion Mushroom
+碎落的霸主之爪	碎落的霸主之爪	砕け落ちた主の爪	Shattered Claw
+护龙的大茧	護龍的大繭	護竜の大繭	Large Guardian Cocoon
+护龙的茧	護龍的繭	護竜の繭	Guardian Cocoon
+坐下	坐下	座る	Sit
+个人帐篷	個人帳篷	マイテント	Tent
+临时营地	臨時營地	一時キャンプ	Makeshift Camp
+营火	營火	キャンプファイヤー	Campfire
+营地椅	露營椅	キャンプチェア	Camp Chairs
+阿尔玛的营地桌	阿爾瑪的露營桌	アルマのキャンプテーブル	Alma's Camp Table
+锻炼用木桶	鍛鍊用木桶	トレーニング用タル	Training Barrel
+提灯	提燈	ランタン	Lantern
+提灯【导虫】	提燈【導蟲】	ランタン【導蟲】	Lantern (Scoutflies)
+队旗【鸟之队】	隊旗【飛鳥隊】	隊旗【鳥の隊】	Squad Flag: Avis Unit
+简易营地配送粮食	簡易營地配送糧食	簡易キャンプ　配達食糧	Camp Food Delivery
+花盆	花盆	植木鉢	Flowerpot
+杂物置放处	雜物置放處	小物置き場	Small Item Storage
+营火	營火	かがり火	Torch
+龙都之花	龍都之花	竜都の花	Wyverian Flower
+仿制驱兽铃	仿製驅獸鈴	レプリカ鳴子	Gemchime Replica
+猫式大桶爆弹	貓式大爆彈桶	ネコ式大タル爆弾	Demeowlisher Bomb
+麻痹橡子	麻痺橡實	シビレどんぐり	Paracorn
+堰堤瓦砾	堰堤瓦礫	堰堤の瓦礫	Dam Rubble
+藤缠石	藤纏岩石	絡まり岩	Entangled Rocks
+水上瓦砾	水上瓦礫	水上の瓦礫	Loch Ruins
+崩塌瓦砾	崩塌瓦礫	崩れ瓦礫	Unstable Rubble
+棉花孢子草	棉花孢子草	綿胞子草	Sporepuff
+风化的遗迹	風化遺跡	風化した遺跡	Weathered Ruins
+破龙石块	破龍石塊	破龍石の塊	Lump of Wyrmsbane
+燃石炭块	燃石炭塊	燃石炭の塊	Lump of Blastcoal
+飞龙的蛋	飛龍的蛋	飛竜の卵	Wyvern Egg
+喷出的油泥	噴出的油泥	吹き出る油泥	Oilsilt Spouts
+区域4　矿石洞窟	第4區　礦石洞窟	エリア４　鉱石洞窟	Area 4: Mineral Cave
+区域6　山谷藏身处	第6區　山谷藏身處	エリア６　谷の隠れ家	Area 6: Valley Hideaway
+区域14　地下水脉	第14區　地下水脈	エリア１４　地下水脈	Area 14: Groundwater Vein
+区域3　南部	第3區　南部	エリア３　南部	Area 3: South
+区域4　西部	第4區　西部	エリア４　西部	Area 4: West
+区域9　眺望坡	第9區　眺望山丘	エリア９　見晴らし丘	Area 9: Lookout Hill
+区域10　东南部	第10區　東南部	エリア１０　南東部	Area 10: Southeast
+区域8　东南部	第8區　東南部	エリア８　南東部	Area 8: Southeast
+区域13　西部	第13區　西部	エリア１３　西部	Area 13: West
+区域13　绿洲	第13區　綠洲	エリア１３　オアシス	Area 13: Oasis
+区域16　西北部	第16區　西北部	エリア１６　北西部	Area 16: Northwest
+区域16　骨沙漠	第16區　骨沙漠	エリア１６　骨砂漠	Area 16: Bone Desert
+区域8　西南部	第8區　西南部	エリア８　南西部	Area 8: Southwest
+区域16　遗迹内部	第16區　遺跡內部	エリア１６　遺跡内部	Area 16: Ruin Interior
+区域8　洞窟湖	第8區　洞窟湖	エリア８　洞窟湖	Area 8: Underground Lake
+区域6　鲜花岩地	第6區　開花岩場	エリア６　花咲く岩場	Area 6: Flowering Rocks
+区域7　巨木树荫	第7區　大樹樹蔭	エリア７　大樹の木陰	Area 7: Bower of the Great Tree
+区域18　树上高台	第18區　樹上高台	エリア１８　樹上高台	Area 18: Treetop Hill
+区域10　西南部	第10區　西南部	エリア１０　南西部	Area 10: Southwest
+区域12　东北部	第12區　東北部	エリア１２　北東部	Area 12: Northeast
+区域8　南部	第8區　南部	エリア８　南部	Area 8: South
+区域16　瀑布秘境	第16區　瀑布秘境	エリア１６　滝の秘境	Area 16: Hidden Waterfall
+区域14　西南部	第14區　西南部	エリア１４　南西部	Area 14: Southwest
+区域18　西部	第18區　西部	エリア１８　西部	Area 18: West
+区域17　大湖畔	第17區　大湖畔	エリア１７　大湖畔	Area 17: Great Lake Shore
+区域2　峡谷岩石间	第2區　峽谷岩石間	エリア２　峡谷岩間	Area 2: Canyon Divide
+区域12　绯红小河	第12區　緋紅支流	エリア１２　緋の細流	Area 12: Crimson Rivulet
+区域14　矿脉洞窟	第14區　礦脈洞窟	エリア１４　鉱脈洞窟	Area 14: Mining Cave
+区域13　钟乳洞	第13區　鐘乳洞	エリア１３　鍾乳洞	Area 13: Limestone Cavern
+区域15　下层北部	第15區　下層北部	エリア１５　下層北部	Area 15: Lower Strata North
+区域9　中层南部	第9區　中層南部	エリア９　中層南部	Area 9: Middle Strata South
+区域8　中层北部	第8區　中層北部	エリア８　中層北部	Area 8: Middle Strata North
+区域4　高处道路遗迹	第4區　高處通路遺址	エリア４　高所通路跡	Area 4: Dilapidated Roadway
+区域1　冰河岸边	第1區　冰河岸邊	エリア１　氷の水辺	Area 1: Icy Shore
+区域18　陷坑洞	第18區　陷落孔	エリア１８　陥没孔	Area 18: Sinkhole
+区域20　遗迹房间	第20區　遺跡房間	エリア２０　遺構の室	Area 20: Ancient Room
+区域19　漂浮岩壁	第19區　飄浮岩壁	エリア１９　浮遊岩壁	Area 19: Floating Rock Wall
+区域6　北部	第6區　北部	エリア６　北部	Area 6: North
+区域15　高层回廊	第15區　高層迴廊	エリア１５　天井回廊	Area 15: Upper Corridor
+区域7　瞭望台	第7區　瞭望台	エリア７　見張り台	Area 7: Watchtower
+区域2　崩塌的遗迹	第2區　崩塌遺跡	エリア２　崩れた遺構	Area 2: Crumbling Structures
+区域9　盘根错节的房间	第9區　盤根錯節的房間	エリア９　根絡み部屋	Area 9: Entangled Canopy
+区域6　废都秘境	第6區　廢都的秘境	エリア６　廃都の秘境	Area 6: Secluded Ruins
+区域13　隐藏洞穴	第13區　隱藏洞穴	エリア１３　隠れ横穴	Area 13: Hidden Cave
+区域6　遗迹树林	第6區　遺跡樹林	エリア６　跡形の木立	Area 6: Remnant Grove
+区域6　东南部	第6區　東南部	エリア６　南東部	Area 6: Southeast
+区域8　瓦砾缝隙	第8區　瓦礫縫隙	エリア８　瓦礫の隙間	Area 8: Gap in Rubble
+训练场入口	訓練場入口	トレーニングエリア入口	Training Area Entrance
+交汇之峰后门	交匯之峰後門	峰の裏門	Peaks Back Gate
+龙谷之门	龍谷之門	竜谷の門	Hollow Gate
+翼龙的驻脚木	翼龍的駐腳木	翼竜の止まり木	Wingdrake Perch
+深入的爪痕	深入的爪痕	深く抉られた爪痕	Deep Gouges
+老旧锻造机	老舊鍛造機	古びた鍛造機	The Ancient Forge
+钟乳落石	鐘乳落石	鍾乳落石	Falling Stalactite
+脆弱冰柱	脆弱冰柱	脆い氷柱	Brittle Ice Pillar
+熔岩喷出口	熔岩噴出口	溶岩の噴出口	Lava Vent
+漂浮瓦砾	飄浮瓦礫	浮遊する瓦礫	Floating Rubble
+冰封巨石柱	冰封巨石柱	凍てついた巨石柱	Giant Frozen Pillar
+几近崩塌的冰壁	快崩塌的冰牆	崩れかけの氷壁	Crumbling Ice Wall
+巨大冰块	巨大冰塊	巨大な氷塊	Giant Ice Chunk
+脆弱冰面	脆弱冰面	脆い氷床	Brittle Ice Floor
+脆弱冰面（已崩塌）	脆裂冰面（已崩塌）	脆い氷床（崩落）	Shattered Ice Floor
+倾斜冰锥	傾斜尖銳冰柱	斜めに尖った氷柱	Icespikes
+龙乳池	龍乳池	竜乳溜まり	Wyvern Milk Puddle
+圣庙碎片	聖廟碎片	社の破片	Shrine Fragment
