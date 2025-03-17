@@ -12,4 +12,5 @@ https://ruisan.blog.jp/archives/27120953.html
 运行环境：Windows10 / Windows11
 
 You must install .NET Desktop Runtime to run this application.
+
 <img src="https://livedoor.blogimg.jp/ruimusume/imgs/7/0/70a53f1f.png">
