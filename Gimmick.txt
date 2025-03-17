@@ -228,3 +228,4 @@
 倾斜冰锥	傾斜尖銳冰柱	斜めに尖った氷柱	Icespikes
 龙乳池	龍乳池	竜乳溜まり	Wyvern Milk Puddle
 圣庙碎片	聖廟碎片	社の破片	Shrine Fragment
+照暗蜂的巢	照黑蜂的巢	ヤミテラシバチの巣	Dark Hornet Nest
