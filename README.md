@@ -10,3 +10,6 @@ https://ruisan.blog.jp/archives/27120953.html
 软件作者：露易娘<br>
 协助开发：一只二爷、Gamer小诚、E.W<br>
 运行环境：Windows10 / Windows11
+
+You must install .NET Desktop Runtime to run this application.
+<img src="https://livedoor.blogimg.jp/ruimusume/imgs/7/0/70a53f1f.png">
