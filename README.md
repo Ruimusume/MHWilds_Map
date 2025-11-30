@@ -1,4 +1,5 @@
 # MHWilds Interactive Map
+![Github latest downloads](https://img.shields.io/github/downloads/Ruimusume/MHWilds_Map/total.svg)<br>
 Language Comparison Table, including Simplified, Traditional, Japanese, and English
 
 https://ruisan.blog.jp/archives/27120953.html
